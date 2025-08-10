@@ -1,0 +1,18 @@
+{
+  "version": "1.1.6",
+  "pub_date": "2025-08-10T19:09:53Z",
+  "platforms": {
+    "darwin-universal": {
+      "signature": null,
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.6/LazyTyper_1.1.6_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": null,
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.6/LazyTyper_1.1.6_universal.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": null,
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.6/LazyTyper_1.1.6_universal.app.tar.gz"
+    }
+  }
+}
