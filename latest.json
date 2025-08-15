@@ -4,15 +4,15 @@
   "platforms": {
     "darwin-universal": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUKzZKZisyNXdEMlRLQnVpSTNSSk9RcHliY0dQcjV4d1JOeEFnanZkVlJya2lmOGNqU252NHV3bzhsSGt4MzZGQ3RLUURmandPanorNXRxbEt6bHJOeE1xWldsc205UGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MjUzMjc1CWZpbGU6TGF6eVR5cGVyLmFwcC50YXIuZ3oKSWFmK3BIV0VrL3FXSlNXTlduVjJUN2lCZFdMWFlTRW9ySmwxVG1jY1Q3N1IwYzlxRk1FcFA2S3BCUDNQQlZSM1MrUGVSUTdWeXVqSW9CS2dFb1N2Qmc9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.9/LazyTyper_1.1.9_universal.app.tar.gz"
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.9/LazyTyper.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUKzZKZisyNXdEMlRLQnVpSTNSSk9RcHliY0dQcjV4d1JOeEFnanZkVlJya2lmOGNqU252NHV3bzhsSGt4MzZGQ3RLUURmandPanorNXRxbEt6bHJOeE1xWldsc205UGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MjUzMjc1CWZpbGU6TGF6eVR5cGVyLmFwcC50YXIuZ3oKSWFmK3BIV0VrL3FXSlNXTlduVjJUN2lCZFdMWFlTRW9ySmwxVG1jY1Q3N1IwYzlxRk1FcFA2S3BCUDNQQlZSM1MrUGVSUTdWeXVqSW9CS2dFb1N2Qmc9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.9/LazyTyper_1.1.9_universal.app.tar.gz"
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.9/LazyTyper.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUKzZKZisyNXdEMlRLQnVpSTNSSk9RcHliY0dQcjV4d1JOeEFnanZkVlJya2lmOGNqU252NHV3bzhsSGt4MzZGQ3RLUURmandPanorNXRxbEt6bHJOeE1xWldsc205UGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MjUzMjc1CWZpbGU6TGF6eVR5cGVyLmFwcC50YXIuZ3oKSWFmK3BIV0VrL3FXSlNXTlduVjJUN2lCZFdMWFlTRW9ySmwxVG1jY1Q3N1IwYzlxRk1FcFA2S3BCUDNQQlZSM1MrUGVSUTdWeXVqSW9CS2dFb1N2Qmc9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.9/LazyTyper_1.1.9_universal.app.tar.gz"
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.9/LazyTyper.app.tar.gz"
     }
   }
 }
