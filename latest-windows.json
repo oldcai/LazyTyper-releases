@@ -1,10 +1,10 @@
 {
-  "version": "1.1.12",
-  "pub_date": "2025-08-21T12:23:06.059701Z",
+  "version": "1.1.11",
+  "pub_date": "2025-08-21T17:57:07.389010Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG5LTUhyY3VJcTZKNmhRWnVpN2pRbkJRMGdvOXZsVnQ0ZVlqaHhQSU9iemxXZ3ZZNk5KdUt0TWNFQ0I3UEJZRGVBeHh1MC9UUWw5Q0cxVThnaGlWR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1Nzc4OTg1CWZpbGU6TGF6eVR5cGVyXzEuMS4xMl94NjRfZW4tVVMubXNpCksyOWovVXZ6WGRlYmVsangxZktYbjhPaUp3dk5hY0JlZVFnMnpBOFJsV2NNU1pFckJvRW93Q2VGSUNPaWw1VUdwU2FNTFJacFRYUmRwMTB2bFZic0NRPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.12/LazyTyper_1.1.12_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHR0NlNDdkRXbnNiRlFWYTVFZEpVQmtQWldoTWZ3RDRQSGE0U0dSRGNtMWlicW5ocWFScjVWMnZLTUJtZmFBeXZ5KzNOWjU5eVFuRDh1TDFIT2cxRGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1Nzk5MDI3CWZpbGU6TGF6eVR5cGVyXzEuMS4xMV94NjQtc2V0dXAuZXhlCm90M2RWVy9IWmFYYUYzS3J0alVwcStRU00yYWtzUXdnbDN6QmV2OW5rQ0NtYVUyNDd0VTBXYkVOenBBWmFsUTlrUGpleVJTNlVWUVFwN3ErdkwxM0JnPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.11/LazyTyper_1.1.11_x64-setup.exe"
     }
   }
 }
