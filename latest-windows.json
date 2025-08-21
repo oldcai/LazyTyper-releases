@@ -1,0 +1,10 @@
+{
+  "version": "1.1.11",
+  "pub_date": "2025-08-21T06:27:44.108596Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHE0UmIzMUxWVXdmZitZZW00T2pkdE15SW1oQWh1VEszc2pyOHlMdFdmbjFOR1pRcnVKYktGNUNNUXU2Q0ZuWXNMdS82a1pEVDM3cVowbGlZOXEwZEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1NzU3NjYzCWZpbGU6TGF6eVR5cGVyXzEuMS4xMV94NjRfZW4tVVMubXNpCkVnd29KeWdCc2xBZjdEazRydld0blEzNnQwOTdKVkpkaUdrbFduSUxzN2JTRW5BTXRWWVdmeTBuUm5IeGlZMWdyOGFGRi9zU2hycCt5cGRWOGJncUJnPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.11/LazyTyper_1.1.11_x64_en-US.msi"
+    }
+  }
+}
