@@ -1,10 +1,10 @@
 {
   "version": "v1.1.18",
   "notes": "LazyTyper v1.1.18 - Built with cross-compilation from macOS",
-  "pub_date": "2025-09-14T13:44:43.770360Z",
+  "pub_date": "2025-09-14T14:23:32.998199Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGpEZjBzYmx4MkhJdU56MWYreWdYcmFZN1RlQ0NpNHBsYUJNNTlnVVdoNWRvZWVNZUZhRGNDdHZCYWkxOUcyRTIwWnBxQXpqSEF6dHlPUkt5K2UrS2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3ODU5ODEyCWZpbGU6TGF6eVR5cGVyXzEuMS4xOF94NjQtc2V0dXAuZXhlCjNwUndIdHowZEloVGkzWlpqaFczYXBpZVFLcS9ONzFIeUExTXpZbjUxUERHV0Y3ZDVJQ1R5UjZqL0VDcnRFV1hPc2QrSUFyUVF0VDN0RUtiK1ErVUJ3PT0K",
       "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.1.18/LazyTyper_1.1.18_x64-setup.exe"
     }
   }
