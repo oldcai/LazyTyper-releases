@@ -1,11 +1,11 @@
 {
-  "version": "1.5.2",
-  "notes": "LazyTyper v1.5.2 - Built with cross-compilation from macOS",
-  "pub_date": "2025-11-10T19:02:37.927850Z",
+  "version": "1.6.1",
+  "notes": "LazyTyper v1.6.1 - Built with cross-compilation from macOS",
+  "pub_date": "2025-11-13T08:28:44.329485Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG42dnZBanFoeDFOSUtkSlMwK2tKUjkySG5VaUxwYjBLU3dBdmkzbFVuQk9Gb0VyWDNiYmhsMXNqSzZJM21ZbHFZNXRpWlU1Q2N5azQ5eDExUklNTEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyODAxMzU3CWZpbGU6TGF6eVR5cGVyXzEuNS4yX3g2NC1zZXR1cC5leGUKTkNiZFFVMy9NNnQ5MjhVRHdBdndBNWJVQjRQSVR5R205YUcxVG9oU0xMamlzWE1GZW90eDhvOUs5QXhYUUZoRTJiTUlYSkRreWpOb1kvSkJsZXB2Q2c9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.5.2-windows/LazyTyper_1.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1HejVRYTBNMFV1YWZKL1hwd045ckhiMHNlSWFFZ3F4dTFHV00zU3V6UEVSVTdUTC9BUmxlVVVQYkh0U2xlNkplc1QzNFU3MG5JU2o3SXFIQ25sb0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzMDIyNTI0CWZpbGU6TGF6eVR5cGVyXzEuNi4xX3g2NC1zZXR1cC5leGUKYXc0bHhXUjB6cmNtR0pReEs0VGNsZDJvRnlyNDFKeElZaGw0OGtvckgyeFBFaXBvV3gvK2M2N1NaQ1Q4aS9qTk1CZ0x1TXJCZVlMNUpQSThreEw2Q3c9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.6.1-windows/LazyTyper_1.6.1_x64-setup.exe"
     }
   }
 }
