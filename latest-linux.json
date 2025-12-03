@@ -1,10 +1,10 @@
 {
   "version": "1.8.1",
-  "pub_date": "2025-12-02T17:17:23Z",
+  "pub_date": "2025-12-03T04:13:35Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHZJYnROd1pNNGJzelI1OTcrMlNTWUdlZ3ZvekJmVG1LNEVjVFJjTE5wbWNuRzNNUUdOeW1HREU4N0VrYzU4QXQ3QVNXR1hxekdpd2NZa0hQQ0ZtVXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Njk1NzMzCWZpbGU6TGF6eVR5cGVyXzEuOC4xX2FtZDY0LmRlYgpUMS9CQUo1dFdUMkRDRFlvbmZ6MmI2V1NhKzY0NkRIamFrcEtrL0JTUnBNUVFEc05aSkt3MTROVXNyUWR5dk5OZnFxTW9mdWF1SDdWWER5UjhiN1FEUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.1-linux/LazyTyper_1.8.1_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGk2dVBUa1NYMWl2WW5Ub2FiaFNYQjUxL0wyZGVjOW9JYUw3U3k3dFM1OXdkVS83QitUd0NreHo1QkNZYzRIcGxaWlg4ZnBxMVVnS0FJc2VQcEx0dWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0NzM1MDI1CWZpbGU6TGF6eVR5cGVyLXg4Nl82NC5BcHBJbWFnZQowTlB4YWF0TldHMHk0L2hlWTJRRXROU0V5RW1RbXZWT08zMi8zQVJHNkxuNnZZSTB5UDlPZTY1ZFozd1REZHkvdnVqaWx2NUxaL1IzK3hNbmFhSnpDZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.1-linux/LazyTyper-x86_64.AppImage"
     }
   }
 }
