@@ -6,5 +6,6 @@
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJCN3czM0Q4RGt0R1ByR3RBNWxQWEVqRmRpaUNLMzd3VzBBR2JCTHU1YVIvS2IyaVptZ1NxVlBMUVN2OUU0UTlwVHUxblA5bVEzQ0srS3k2OGdkZmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NzI0NjM3CWZpbGU6TGF6eVR5cGVyXzEuOC41X3g2NC1zZXR1cC5leGUKRjB4WEVmTGpjTGZ6aHh4MkxsUTNUakZXUmtlMkd4N3hrSzNZUXp4YmZEaXV5UWJPbWY3OFZic3AxM3d0UE5OeVdlODkxWXdBT1NjUzhuMXBmWWN2RHc9PQo=",
       "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.5-windows/LazyTyper_1.8.5_x64-setup.exe"
     }
-  }
+  },
+  "notes": "• Real-time AI text polishing with streaming\n• Full Traditional Chinese language support\n• Custom vocabulary hotwords for better accuracy\n• New advanced AI configuration settings\n• Improved punctuation for ordered lists"
 }
