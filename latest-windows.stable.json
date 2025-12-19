@@ -1,0 +1,11 @@
+{
+  "version": "1.8.6",
+  "notes": "LazyTyper v1.8.6 - Built with cross-compilation from macOS",
+  "pub_date": "2025-12-19T11:05:34.227421Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHNRNkcxUWRPbjNMT1llZTBESldudk1KaFhBZHdUMHkwWFpLaDNGcVNHaFZNRjU1Wktsc0VuMjFwVDBBOE9tbCt2dWIyY1RTK1pMci96dXVIREY2aHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTQyMzMzCWZpbGU6TGF6eVR5cGVyXzEuOC42X3g2NC1zZXR1cC5leGUKUTZPYnBTMXZJclFSNTJPV0daK1lCUG8yeTVsSWJydGRIZ2l4ajBKQTU2Ty9xRUlVWkFyalRWZ1RrOFJLY2htSnk5Z1hqUUliUUJEMlZMQmNoaXhDQ2c9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.6-windows/LazyTyper_1.8.6_x64-setup.exe"
+    }
+  }
+}
