@@ -1,11 +1,11 @@
 {
-  "version": "1.8.7-nightly.1",
-  "notes": "\u2022 Edit, export, and re-polish your transcription history\n\u2022 Added Cerebras as a new AI polishing provider\n\u2022 Improved recording triggers and silent cancel options\n\u2022 Better support for large fonts and screen scaling\n\u2022 Fixed stuck processing icons and keyboard repeat issues",
-  "pub_date": "2025-12-27T10:37:30.576752Z",
+  "version": "1.8.7-nightly.2",
+  "notes": "\u2022 New feature to transcribe saved audio files\n\u2022 Added AI controls to fine-tune transcription styles\n\u2022 Improved smart line breaks and filler word removal\n\u2022 New option to export your transcription history\n\u2022 New setting to restore clipboard after transcribing",
+  "pub_date": "2026-01-01T01:38:41.437570Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGtEaU9yZlJnWUpHZUcxVGdCM3BNM0RWRmlmVXo2Rkp4VnpSS3lrMXFyV29YVHVNRC9nUjk3eU9ZWnFIRklyNjk5QjFJYy83WTFzRThPLzVXWXhxWkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODMxODQwCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuMV94NjQtc2V0dXAuZXhlCnVaVmxzMEZIb3NORjRjMCtQSi9UN200NEc2ajRacEYxQzBRY3FIN0R3UlpCRlJGQ0p0MnVUa2h1S1hGK2tYUjVQaUd2OFVJeUxBRmlEN1ZGc2tnekJ3PT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.1-windows/LazyTyper_1.8.7-nightly.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHR6R3lvR2xGNFg0Vkd5UDNSZE5NWU01UG1QZnp3SjI2N3QxQmNYSGVBUTNQeXIrSWNyNzYweFJvbXFrcFQ3VXBBSFd2SVdtaGNLWFN5eGc0M2IralE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MjMxNTA5CWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuMl94NjQtc2V0dXAuZXhlCjVRcnJqanVUMjJ3ZXd1dk1VaVNnYys1c2pXU3o2ZndicE9WcjZ2b3dMMFJ2U0tZbnB5OWJrSjZiZ2o5VlVSNDBzM1pOUFN4RVlWQ3FOaGJaMG50dURRPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.2-windows/LazyTyper_1.8.7-nightly.2_x64-setup.exe"
     }
   }
 }
