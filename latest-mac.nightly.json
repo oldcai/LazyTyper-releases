@@ -1,19 +1,19 @@
 {
-  "version": "1.8.7-nightly.3",
-  "pub_date": "2026-01-06T04:51:07Z",
+  "version": "1.8.7-nightly.4",
+  "pub_date": "2026-01-18T10:10:59Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGdmVHBHSm9lR05LTGtwUDhBbjE2bDhtS0pGczVpTW5sc0xBU1pCZUpnT2Uwakpqc1RRQ2hVVmR2a1hVWjdmSC9IWURiZ0UxL25oaG9sbDBEVnUwRndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Njc0NzkzCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuM191bml2ZXJzYWwuYXBwLnRhci5negp0RWxocjlwNUJnOHBQajhYOEd5cURnUC9wMUN4WVU3cXlucVVTSGFLVWtPa2Z0OXN1blJ5eFcvcHZ0ZE9BUUczTTh0TTF5blJTYXlPNStCam1JNVdDdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.3/LazyTyper_1.8.7-nightly.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHE4TEoyTktWTFhZa1F5bzhEM3huRmorQ05Yc3VSVzZSekpGN2VPUWh6UGlWL3pnbDJYV1dhZitBeGFlODdpaE9IUDRtY1Vubm1UVS9JM1BpclY4NmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NzMwODEzCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNF91bml2ZXJzYWwuYXBwLnRhci5negpkM0t6SFM5S2s0cHNLYU9HWFNaMGRJRklDUWwvSmZJQVkyWmZPUmhoTWhvTDdDZGtUQ2hVNkJyTUY1Z294V2JuaUJLS3BkdnM3Mkg5c2RVc29pNVNDdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.4/LazyTyper_1.8.7-nightly.4_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGdmVHBHSm9lR05LTGtwUDhBbjE2bDhtS0pGczVpTW5sc0xBU1pCZUpnT2Uwakpqc1RRQ2hVVmR2a1hVWjdmSC9IWURiZ0UxL25oaG9sbDBEVnUwRndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Njc0NzkzCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuM191bml2ZXJzYWwuYXBwLnRhci5negp0RWxocjlwNUJnOHBQajhYOEd5cURnUC9wMUN4WVU3cXlucVVTSGFLVWtPa2Z0OXN1blJ5eFcvcHZ0ZE9BUUczTTh0TTF5blJTYXlPNStCam1JNVdDdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.3/LazyTyper_1.8.7-nightly.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHE4TEoyTktWTFhZa1F5bzhEM3huRmorQ05Yc3VSVzZSekpGN2VPUWh6UGlWL3pnbDJYV1dhZitBeGFlODdpaE9IUDRtY1Vubm1UVS9JM1BpclY4NmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NzMwODEzCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNF91bml2ZXJzYWwuYXBwLnRhci5negpkM0t6SFM5S2s0cHNLYU9HWFNaMGRJRklDUWwvSmZJQVkyWmZPUmhoTWhvTDdDZGtUQ2hVNkJyTUY1Z294V2JuaUJLS3BkdnM3Mkg5c2RVc29pNVNDdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.4/LazyTyper_1.8.7-nightly.4_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGdmVHBHSm9lR05LTGtwUDhBbjE2bDhtS0pGczVpTW5sc0xBU1pCZUpnT2Uwakpqc1RRQ2hVVmR2a1hVWjdmSC9IWURiZ0UxL25oaG9sbDBEVnUwRndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Njc0NzkzCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuM191bml2ZXJzYWwuYXBwLnRhci5negp0RWxocjlwNUJnOHBQajhYOEd5cURnUC9wMUN4WVU3cXlucVVTSGFLVWtPa2Z0OXN1blJ5eFcvcHZ0ZE9BUUczTTh0TTF5blJTYXlPNStCam1JNVdDdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.3/LazyTyper_1.8.7-nightly.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHE4TEoyTktWTFhZa1F5bzhEM3huRmorQ05Yc3VSVzZSekpGN2VPUWh6UGlWL3pnbDJYV1dhZitBeGFlODdpaE9IUDRtY1Vubm1UVS9JM1BpclY4NmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NzMwODEzCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNF91bml2ZXJzYWwuYXBwLnRhci5negpkM0t6SFM5S2s0cHNLYU9HWFNaMGRJRklDUWwvSmZJQVkyWmZPUmhoTWhvTDdDZGtUQ2hVNkJyTUY1Z294V2JuaUJLS3BkdnM3Mkg5c2RVc29pNVNDdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.4/LazyTyper_1.8.7-nightly.4_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 Use CapsLock light to see your recording status\n\u2022 New coding styles like snake_case and camelCase\n\u2022 Support for more audio file formats and lengths\n\u2022 Color highlighting for easier AI prompt editing\n\u2022 Improved app detection and keyboard shortcut reliability"
+  "notes": "\u2022 Added support for Ollama and NVIDIA NIM providers\n\u2022 Smarter AI polishing using your active app context\n\u2022 New interactive bubble for quick transcription actions\n\u2022 Automatically learns your personal vocabulary from edits\n\u2022 Improved recording quality for quiet or distant speech"
 }
