@@ -1,11 +1,11 @@
 {
-  "version": "1.8.7-nightly.4",
-  "notes": "\u2022 Support for new AI models like Ollama and NVIDIA\n\u2022 Better transcription accuracy for quiet speech and whispers\n\u2022 New interactive bubble with navigation and action buttons\n\u2022 Automatically learn new vocabulary from your text edits\n\u2022 Smarter results based on your current active window",
-  "pub_date": "2026-01-19T14:09:52.121907Z",
+  "version": "1.8.7-nightly.5",
+  "pub_date": "2026-01-29T21:45:04.975206Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGdHdEN0aTdEemdmNEpvTVlKanZaNy8zL0RaK0I3QUowZWxSaXEwbHUyTlAzOERqdWFmZCtnVWNtOWNrdUU3Rm1ZUjJpYmZzdWtqaVZmNkhvTXR0NndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4ODMxNzY1CWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNF94NjQtc2V0dXAuZXhlCjlxNXhvb2RkZ1FYY0RLL3cxcVpKLzhtYmVRRVJraDJFM0VNeUtxVEpjV3dOZC9LckF6SUtQbk81ZW5yKzdtWnBEOVFkVk5NVko0dW9Pb2JLUHU1MENRPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.4-windows/LazyTyper_1.8.7-nightly.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHFibEZ5c25nOXV2aG1BTFdjeXI0RVBnNE9QREV1akpjVDNtcDU4UWRMaW84TFRseEl4SzhKVGRKMXZBMjhZUjdNcitZeVkvWkZUUVpZYjlLand5N3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NzIzMDk1CWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNV94NjQtc2V0dXAuZXhlCllYdHpVY3dPclV6amU1Z3prMHNuYWlOVXcySFU2R1ZuaWRnOXZBeW9pQnFoUC9kU0RHTWV2TXBUREtsU3NjTlZGVGtmVUYyc3JlaGVheGF0bjE0NUFnPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.5-windows/LazyTyper_1.8.7-nightly.5_x64-setup.exe"
     }
-  }
+  },
+  "notes": "\u2022 New AI-powered background noise reduction\n\u2022 Faster transcription on Windows, Linux, and macOS\n\u2022 Customizable text styles and AI 'Thinking' mode\n\u2022 Improved multi-monitor support and positioning\n\u2022 Skip AI polishing instantly with the Escape key"
 }
