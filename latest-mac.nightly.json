@@ -1,19 +1,19 @@
 {
-  "version": "1.8.7-nightly.5",
-  "pub_date": "2026-01-29T04:23:34Z",
+  "version": "1.8.7-nightly.6",
+  "pub_date": "2026-02-01T17:58:57Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1CVXgzQWNlL1E1YWVyZTQxSVREL0o0T3NLTFgrTWRtQlhVcXlTektvRC9zc2xlRnZ3Y0Z0NkpkQzNWV0dlaGpwY1UwOVBTV2RmV2gvYyt0Z1NFcEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjYwMzIyCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negp3akFuTzdaNGN4akhyaG9lMWo1Q2tWVGRmT29HWnAvUEJsUERyTWYvRWUyZ3RMN0xQSXVaWmFUeEwrRm9WK0t0VWJZbERUajJBZjhoTzNweW0xZWxDdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.5/LazyTyper_1.8.7-nightly.5_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9UOWMyOFIvNGNMU1BDUFlJeG9KSEFlbDRpMmZmNGFXZmFPYzN6anp6MnhVZURmSzVYQ05Rd04rODVHell0MUx3TnNUK003UllBblhaczJyOEViOHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTY4NDgzCWZpbGU6TGF6eVR5cGVyLmFwcC50YXIuZ3oKclU4MXdINXNOeHgxTHkvOTZIK2lwRStFblh6UGpPaTM1emEzRkZsbUM4Uzl4d25TY0NucVZRK0F0NmRLSHY4Y28rUkM3aU9YeWF5Zm9nME1Pd0xNQ3c9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.6/LazyTyper_1.8.7-nightly.6_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1CVXgzQWNlL1E1YWVyZTQxSVREL0o0T3NLTFgrTWRtQlhVcXlTektvRC9zc2xlRnZ3Y0Z0NkpkQzNWV0dlaGpwY1UwOVBTV2RmV2gvYyt0Z1NFcEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjYwMzIyCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negp3akFuTzdaNGN4akhyaG9lMWo1Q2tWVGRmT29HWnAvUEJsUERyTWYvRWUyZ3RMN0xQSXVaWmFUeEwrRm9WK0t0VWJZbERUajJBZjhoTzNweW0xZWxDdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.5/LazyTyper_1.8.7-nightly.5_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9UOWMyOFIvNGNMU1BDUFlJeG9KSEFlbDRpMmZmNGFXZmFPYzN6anp6MnhVZURmSzVYQ05Rd04rODVHell0MUx3TnNUK003UllBblhaczJyOEViOHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTY4NDgzCWZpbGU6TGF6eVR5cGVyLmFwcC50YXIuZ3oKclU4MXdINXNOeHgxTHkvOTZIK2lwRStFblh6UGpPaTM1emEzRkZsbUM4Uzl4d25TY0NucVZRK0F0NmRLSHY4Y28rUkM3aU9YeWF5Zm9nME1Pd0xNQ3c9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.6/LazyTyper_1.8.7-nightly.6_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1CVXgzQWNlL1E1YWVyZTQxSVREL0o0T3NLTFgrTWRtQlhVcXlTektvRC9zc2xlRnZ3Y0Z0NkpkQzNWV0dlaGpwY1UwOVBTV2RmV2gvYyt0Z1NFcEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjYwMzIyCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negp3akFuTzdaNGN4akhyaG9lMWo1Q2tWVGRmT29HWnAvUEJsUERyTWYvRWUyZ3RMN0xQSXVaWmFUeEwrRm9WK0t0VWJZbERUajJBZjhoTzNweW0xZWxDdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.5/LazyTyper_1.8.7-nightly.5_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9UOWMyOFIvNGNMU1BDUFlJeG9KSEFlbDRpMmZmNGFXZmFPYzN6anp6MnhVZURmSzVYQ05Rd04rODVHell0MUx3TnNUK003UllBblhaczJyOEViOHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTY4NDgzCWZpbGU6TGF6eVR5cGVyLmFwcC50YXIuZ3oKclU4MXdINXNOeHgxTHkvOTZIK2lwRStFblh6UGpPaTM1emEzRkZsbUM4Uzl4d25TY0NucVZRK0F0NmRLSHY4Y28rUkM3aU9YeWF5Zm9nME1Pd0xNQ3c9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.6/LazyTyper_1.8.7-nightly.6_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 New AI noise reduction for clearer voice transcription\n\u2022 GPU acceleration for faster performance on all devices\n\u2022 Added global and per-trigger text style controls\n\u2022 Live preview tool for audio enhancement settings\n\u2022 Improved text insertion reliability in Windows apps"
+  "notes": "\u2022 Start recording using Bluetooth headphone buttons\n\u2022 Clearer shortcut labels and updated icons\n\u2022 Fixed undo button and window issues\n\u2022 Improved mouse behavior in hold-to-talk mode"
 }
