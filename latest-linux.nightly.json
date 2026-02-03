@@ -1,11 +1,11 @@
 {
-  "version": "1.8.7-nightly.5",
-  "pub_date": "2026-01-29T08:03:12Z",
-  "notes": "\u2022 New noise reduction for clearer voice-to-text\n\u2022 Faster transcription using your computer's GPU\n\u2022 Improved text typing compatibility across apps\n\u2022 Better window positioning on multiple monitors\n\u2022 New text styling options and audio settings",
+  "version": "1.8.7-nightly.6",
+  "pub_date": "2026-02-03T06:00:20Z",
+  "notes": "\u2022 Control transcription using Bluetooth headphone buttons\n\u2022 Easier to read keyboard shortcut labels\n\u2022 Smoother Bluetooth connection and synchronization\n\u2022 Updated icons and better default shortcut settings",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHFzOXZMbGN5NUJZa0RQblNoZ2syUDNid05QWUtvYUgrNTg2djY0dVZxYUtIeE1BbDFXMFBQayszUFVHdkVHeU9NVzMzVkxFemFxa2JEUGxDRWIzTWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjczNzI0CWZpbGU6TGF6eVR5cGVyLXg4Nl82NC5BcHBJbWFnZQpTU0FqeFZVeDlrbTNyelpRcGNQcGZsbHZpL0tnVTYvN01nbXlKQ291SC9CRldRQUtKWE5ReGtDK0xxS3FKWXVlYUlFUFdUc1N1V01VeWRHS2hlRzREUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.5-linux/LazyTyper-x86_64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGhrdlhHeFR3dDYyaU9vY3RHUlR4UVFuSlkxMWtaR2RTNldtYmE2TFJpVzhvQk1VSnNuL3M0MEZkblYySnRreExBUU9PM1NyeUw5SjhQM1d1TWZDeGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDk4MjEyCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNl9hbWQ2NC5kZWIKWlJEd2NQUmpYVXRhRExpd21JZTdISUwvZUlHd1hmbFZtSFNCZUpuZk9sRlFtRFVqWnd2eE9iWnVjVWU0YmYxTUpVUG1sRWhuMnJldXkwQ0NtdkU5QkE9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.6-linux/LazyTyper_1.8.7-nightly.6_amd64.deb"
     }
   }
 }
