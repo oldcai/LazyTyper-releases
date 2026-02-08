@@ -1,11 +1,10 @@
 {
-  "version": "1.8.7-nightly.5",
-  "pub_date": "2026-01-30T14:15:24.022092Z",
+  "version": "1.8.7-nightly.7",
+  "pub_date": "2026-02-08T21:44:53.734500Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHFZWmlBZXJEWnlsSHVMMUFpZ0pjNmY2UWgvb0FqZ3JKaVduRXNRcTdManVVRFpjQWR4VVY4ZmFjVExCVU1LdVJYMDl2dzBCdTZFQ09NYTJPdmYvbUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NzgyNTE5CWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNV94NjQtc2V0dXAuZXhlClVrcWxyUm5GTW9KM2dLSkpueVM0eWh6emV1OU9RMXRCREdKY0FUeFJ4MlFubStJTkFwazZMZ3FOUjllUm40U1JMbFQ4SWt2YVJUYzNXckNTVjlCM0NRPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.5-windows/LazyTyper_1.8.7-nightly.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGxnd2VNa3FVQmdSR2ZDWGtRWmpFQ3FVRGVXSjQ1SmdYNFlxdG93WlRqVUZadEZsZ2IrTGQrSkNwaGtaNU5PaTdRNXVVYXFtK29pc0tCcFQyV1dWUXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTg3MDg5CWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuN194NjQtc2V0dXAuZXhlCmFtYXFEZ01Xa2dNYmpEUjgzY2s5TDY1R0kyaTRhcUNOTmdKMVNkRjFPYkNYQ0pHQkh4aERSTmQxeGFQYUJJdS9SNERDd0wzanBCSkhqWTkxMGFoYkNnPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.7-windows/LazyTyper_1.8.7-nightly.7_x64-setup.exe"
     }
-  },
-  "notes": "\u2022 New AI-powered background noise reduction\n\u2022 Faster transcription on Windows, Linux, and macOS\n\u2022 Customizable text styles and AI 'Thinking' mode\n\u2022 Improved multi-monitor support and positioning\n\u2022 Skip AI polishing instantly with the Escape key"
+  }
 }
