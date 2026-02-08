@@ -1,19 +1,18 @@
 {
-  "version": "1.8.7-nightly.6",
-  "pub_date": "2026-02-01T17:58:57Z",
+  "version": "1.8.7-nightly.7",
+  "pub_date": "2026-02-08T03:29:57Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHUrV2xob2w3b1FkL0J3WkExOVZMakUvb3p3VjVGUG9uaGw0ZUI0S09ZM2srK1Bzblh5bEhhUXBGNnoyNVMxVnVqTWlyUGJTVlNyd2VqV2dWZWxNUXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTkxMTA2CWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNl91bml2ZXJzYWwuYXBwLnRhci5negpDM0pJTUx1ZTdTM2x3TjdyRlJiU3FQSjNMN2xOWnpoeFlOV1RtVlRnZGE4Y05LVU9qYUVEeDJSRGtYcGVjZGtNenUvOFg2M0Q5VjR4YnpYVkRuUVZEZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.6/LazyTyper_1.8.7-nightly.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9BalBUSGNuS3ZyNXRwZHFXaTQ1ME13UGxrdlAvUVhhM2xqZ2s0U09PYUwwQ3J3WGp0YVk5YzRISTljOWJJVlBxVGZTbTJtUlA5bE01ZkR2VnJzbHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTIxMTEyCWZpbGU6TGF6eVR5cGVyLmFwcC50YXIuZ3oKSjg5bzZCTUhHZitMY3lYcjJXUmJWd0VHYlVZUURlUGRQZXc3Y2x2eFlzQzZ5ZVVmc2NpVmloOHNvR0k2SU9aRXRENWlwaUJiYUtKMDltTkhLTUVyREE9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.7/LazyTyper_1.8.7-nightly.7_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHUrV2xob2w3b1FkL0J3WkExOVZMakUvb3p3VjVGUG9uaGw0ZUI0S09ZM2srK1Bzblh5bEhhUXBGNnoyNVMxVnVqTWlyUGJTVlNyd2VqV2dWZWxNUXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTkxMTA2CWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNl91bml2ZXJzYWwuYXBwLnRhci5negpDM0pJTUx1ZTdTM2x3TjdyRlJiU3FQSjNMN2xOWnpoeFlOV1RtVlRnZGE4Y05LVU9qYUVEeDJSRGtYcGVjZGtNenUvOFg2M0Q5VjR4YnpYVkRuUVZEZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.6/LazyTyper_1.8.7-nightly.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9BalBUSGNuS3ZyNXRwZHFXaTQ1ME13UGxrdlAvUVhhM2xqZ2s0U09PYUwwQ3J3WGp0YVk5YzRISTljOWJJVlBxVGZTbTJtUlA5bE01ZkR2VnJzbHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTIxMTEyCWZpbGU6TGF6eVR5cGVyLmFwcC50YXIuZ3oKSjg5bzZCTUhHZitMY3lYcjJXUmJWd0VHYlVZUURlUGRQZXc3Y2x2eFlzQzZ5ZVVmc2NpVmloOHNvR0k2SU9aRXRENWlwaUJiYUtKMDltTkhLTUVyREE9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.7/LazyTyper_1.8.7-nightly.7_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHUrV2xob2w3b1FkL0J3WkExOVZMakUvb3p3VjVGUG9uaGw0ZUI0S09ZM2srK1Bzblh5bEhhUXBGNnoyNVMxVnVqTWlyUGJTVlNyd2VqV2dWZWxNUXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTkxMTA2CWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuNl91bml2ZXJzYWwuYXBwLnRhci5negpDM0pJTUx1ZTdTM2x3TjdyRlJiU3FQSjNMN2xOWnpoeFlOV1RtVlRnZGE4Y05LVU9qYUVEeDJSRGtYcGVjZGtNenUvOFg2M0Q5VjR4YnpYVkRuUVZEZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.6/LazyTyper_1.8.7-nightly.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9BalBUSGNuS3ZyNXRwZHFXaTQ1ME13UGxrdlAvUVhhM2xqZ2s0U09PYUwwQ3J3WGp0YVk5YzRISTljOWJJVlBxVGZTbTJtUlA5bE01ZkR2VnJzbHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNTIxMTEyCWZpbGU6TGF6eVR5cGVyLmFwcC50YXIuZ3oKSjg5bzZCTUhHZitMY3lYcjJXUmJWd0VHYlVZUURlUGRQZXc3Y2x2eFlzQzZ5ZVVmc2NpVmloOHNvR0k2SU9aRXRENWlwaUJiYUtKMDltTkhLTUVyREE9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.7/LazyTyper_1.8.7-nightly.7_universal.app.tar.gz"
     }
-  },
-  "notes": "\u2022 Start recording using Bluetooth headphone buttons\n\u2022 Clearer shortcut labels and updated icons\n\u2022 Fixed undo button and window issues\n\u2022 Improved mouse behavior in hold-to-talk mode"
+  }
 }
