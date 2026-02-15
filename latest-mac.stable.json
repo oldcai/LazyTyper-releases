@@ -1,19 +1,19 @@
 {
-  "version": "1.8.6",
-  "pub_date": "2025-12-19T10:52:54Z",
+  "version": "1.8.7",
+  "pub_date": "2026-02-15T17:22:59Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHExRk9YNGNVbzg4eTBJekN6YUd0KzNMSlRiV1VhcHdMNFFPRHh3ckg5dGdxVVppdmVEUU5TOEpkRWpzV01UY2dCVGd6NVUrOTRTTnNQMzU2SW5CZ1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTQxMTA4CWZpbGU6TGF6eVR5cGVyXzEuOC42X3VuaXZlcnNhbC5hcHAudGFyLmd6CmordE1IZnFDb0MvQjhtSkF6eTFncEpyb0ticDZrU1luSFpqbmdDNlFmUFBHSjRQalBuZXFWdHhaNEJkMEk5WmtyZ0JGZTlMVUxyTjV6bDZlWWNPL0NnPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.6/LazyTyper_1.8.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9XRktpQkdRTXBlTy9CSE1wVk5RYlM3aC9VVkxLTjBoa2lLY2daMmpLTUl6T3Brek9OckdFVXNYK3g3ZnJGWDZuejFGaS9vNHdKYWNUeUZsTVduNXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTc1ODE2CWZpbGU6TGF6eVR5cGVyXzEuOC43X3VuaXZlcnNhbC5hcHAudGFyLmd6ClEzOW9XVU90Rk1lbkVOTkFqcmg2MGN0SkhvdXQ1NEs0b0hrQktCU1BUa2hFSzZON2oyU0UzdHNuSk9USHFodGQ3SGx3L3F1RzZnZ2xGT1BxelpVaEF3PT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7/LazyTyper_1.8.7_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHExRk9YNGNVbzg4eTBJekN6YUd0KzNMSlRiV1VhcHdMNFFPRHh3ckg5dGdxVVppdmVEUU5TOEpkRWpzV01UY2dCVGd6NVUrOTRTTnNQMzU2SW5CZ1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTQxMTA4CWZpbGU6TGF6eVR5cGVyXzEuOC42X3VuaXZlcnNhbC5hcHAudGFyLmd6CmordE1IZnFDb0MvQjhtSkF6eTFncEpyb0ticDZrU1luSFpqbmdDNlFmUFBHSjRQalBuZXFWdHhaNEJkMEk5WmtyZ0JGZTlMVUxyTjV6bDZlWWNPL0NnPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.6/LazyTyper_1.8.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9XRktpQkdRTXBlTy9CSE1wVk5RYlM3aC9VVkxLTjBoa2lLY2daMmpLTUl6T3Brek9OckdFVXNYK3g3ZnJGWDZuejFGaS9vNHdKYWNUeUZsTVduNXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTc1ODE2CWZpbGU6TGF6eVR5cGVyXzEuOC43X3VuaXZlcnNhbC5hcHAudGFyLmd6ClEzOW9XVU90Rk1lbkVOTkFqcmg2MGN0SkhvdXQ1NEs0b0hrQktCU1BUa2hFSzZON2oyU0UzdHNuSk9USHFodGQ3SGx3L3F1RzZnZ2xGT1BxelpVaEF3PT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7/LazyTyper_1.8.7_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHExRk9YNGNVbzg4eTBJekN6YUd0KzNMSlRiV1VhcHdMNFFPRHh3ckg5dGdxVVppdmVEUU5TOEpkRWpzV01UY2dCVGd6NVUrOTRTTnNQMzU2SW5CZ1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTQxMTA4CWZpbGU6TGF6eVR5cGVyXzEuOC42X3VuaXZlcnNhbC5hcHAudGFyLmd6CmordE1IZnFDb0MvQjhtSkF6eTFncEpyb0ticDZrU1luSFpqbmdDNlFmUFBHSjRQalBuZXFWdHhaNEJkMEk5WmtyZ0JGZTlMVUxyTjV6bDZlWWNPL0NnPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.6/LazyTyper_1.8.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9XRktpQkdRTXBlTy9CSE1wVk5RYlM3aC9VVkxLTjBoa2lLY2daMmpLTUl6T3Brek9OckdFVXNYK3g3ZnJGWDZuejFGaS9vNHdKYWNUeUZsTVduNXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTc1ODE2CWZpbGU6TGF6eVR5cGVyXzEuOC43X3VuaXZlcnNhbC5hcHAudGFyLmd6ClEzOW9XVU90Rk1lbkVOTkFqcmg2MGN0SkhvdXQ1NEs0b0hrQktCU1BUa2hFSzZON2oyU0UzdHNuSk9USHFodGQ3SGx3L3F1RzZnZ2xGT1BxelpVaEF3PT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7/LazyTyper_1.8.7_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 See your active microphone and recording status\n\u2022 Improved reliability for keyboard shortcuts and dictation\n\u2022 More precise settings for AI-powered text polishing\n\u2022 Clearer status updates during the translation process\n\u2022 Choose between stable or beta update channels"
+  "notes": "\u2022 Transcribe video files (MP4/MOV) with new timeline view\n\u2022 Added Gemini, Ollama, and Cerebras for AI polishing\n\u2022 Faster local transcription with GPU acceleration\n\u2022 Smart vocabulary learning from your corrections\n\u2022 New Bluetooth headset and CapsLock shortcuts"
 }
