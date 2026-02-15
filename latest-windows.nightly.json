@@ -1,9 +1,9 @@
 {
   "version": "1.8.7-nightly.8",
-  "pub_date": "2026-02-15T02:48:07.336841Z",
+  "pub_date": "2026-02-15T04:02:52.348811Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHNTcm5FTWg4MTN1YmNtdzI2em16NzJQTHVyMS90elJkTDI2aHdDcU1DYlJkMmtYc0tKajQ2bWRQVDVROTVweXcvSVVNRStlRm42RHF6Z0l2cVY5ekFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTIzNjgyCWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuOF94NjQtc2V0dXAuZXhlCnJTK0J1U3JEb3Q4Yjhka1VyVGx2R3hiUk4zUWtWM3lOaXNQclBOdUxNNEEralZ5Nm9IQzQ5ZWJwNGtmdG1rb3FsbFlrelpMMk5rL3ZGdnNPTWcrTkRBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHAyb2tOa3BpYkpFMTgwbDZOcDBYWXZkUlE4WDVWWHI0SHJqalRpdW5qL0diSEduWklxU3hndlB0VXlDdktGZi9YUkYyT0IvWXdMenVNUzhZbktrbmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTI4MTY3CWZpbGU6TGF6eVR5cGVyXzEuOC43LW5pZ2h0bHkuOF94NjQtc2V0dXAuZXhlCkpRdk5qT21lSERTV3ZybXNnRlFja21pZHV1RCtNenhlMHU1QjRUUVFSTGVKemRPZnh5MkJZTUMxMWEyYTNER1VNNVV3b1p2YmVvdTk2UkpBaHdVakJRPT0K",
       "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-nightly.8-windows/LazyTyper_1.8.7-nightly.8_x64-setup.exe"
     }
   }
