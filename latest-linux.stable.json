@@ -1,11 +1,11 @@
 {
   "version": "1.8.7",
-  "pub_date": "2026-02-16T18:44:02Z",
-  "notes": "\u2022 Added Anthropic, Zhipu, and OpenAI support\n\u2022 Redesigned vocabulary and text replacement interface\n\u2022 New CapsLock trigger and Linux Wayland support\n\u2022 Enhanced stability and audio crash recovery",
+  "pub_date": "2026-02-18T01:01:54Z",
+  "notes": "\u2022 Added Anthropic and Zhipu AI provider support\n\u2022 Redesigned vocabulary and text replacement management UI\n\u2022 Increased character limits for AI text polishing\n\u2022 Improved Linux hotkeys and Windows app detection",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHRvK2FnOVZMMzU5WkJSWGxPVG1nR1laZldXR3A0ak1tclRVZUIvWlVlemNkdWh6U3NOc3FrWG5FclFFV1JEeFhadm93SmVWUXdvZ0lOdUl1T0k2SVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjY3MTgyCWZpbGU6TGF6eVR5cGVyXzEuOC43X2FtZDY0LmRlYgpTdHNPcFJja25pb1lyL210UVJTT3JhL28zekNVdmlZWUNEd20zMkIxMmVVbStwWmh3ZnR1TVB5MllSb0c2bzZVakZPRUw5Vm9RdnZwYWJDMDVvOVhBdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-linux/LazyTyper_1.8.7_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHBnSDJPZDdyRzVNeEFVWEFhckNYUFBteXRtU1pNbG54aWQ2RVVORTFsMnl3VGg3N09NYzJJRlYwU2JWUXFzWE5KdnB5bldXS2M5VVlLWWE1RXFSQ1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzc2MTgzCWZpbGU6TGF6eVR5cGVyLXg4Nl82NC5BcHBJbWFnZQplck12RFBjMUMxNldxR2k1cWRNWi84WkdaRWJ1L3N2WlVqNjdkV3dtY09WekxhRGJmNjNWalpFWWM3Wk5RdndtcDRmdkJvU0hrcEhkcklRV0EvT0tCUT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.7-linux/LazyTyper-x86_64.AppImage"
     }
   }
 }
