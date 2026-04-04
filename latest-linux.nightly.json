@@ -1,10 +1,10 @@
 {
   "version": "1.8.8-nightly.4",
-  "pub_date": "2026-04-04T04:54:38Z",
-  "notes": "\u2022 Export and backup your app settings easily\n\u2022 New AI provider catalog in system tray\n\u2022 Option to lower volume during voice recording\n\u2022 More control over punctuation and text spacing\n\u2022 Improved text insertion across desktop apps",
+  "pub_date": "2026-04-04T06:21:13Z",
+  "notes": "\u2022 Backup and sync your app settings easily\n\u2022 Select microphones directly from the system tray\n\u2022 Lower volume instead of muting while recording\n\u2022 Improved automatic filler word removal\n\u2022 Test and optimize custom AI prompts",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHVVTFJrRjRnU1NpNFJIcWxiWmRqcDlYMllubjZLcVZZZE9pQ0hrenR5aUs5U2JvZlg2am9jdDFWaTY2ZEdUNVgzdXNJUnR3Q3FzN05KUzhTQml0Q1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mjc4MTAzCWZpbGU6TGF6eVR5cGVyLXg4Nl82NC5BcHBJbWFnZQp5em9HTlhjemhqWU1IaWMydmlpVFpPem1Ub1BDR0FSSzVWYWhySWpoS0tDUHBnRys4ZUhLOGQrVGZkYVBBbFU0UUpEWS91d09QQmdmUW1ZekJYZEpEdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHE3VnZSU0toVVpuZXdTZGM0Qm5nV3lrVjdNbmFuQmFiS0FwTmNJbnVLZmFLS3RFNjRXaWNJSVdhR0VDempDdFNnRHoxQWc3TUhkRlRwa0lRYjNsOWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjgzMzI2CWZpbGU6TGF6eVR5cGVyLXg4Nl82NC5BcHBJbWFnZQpXYlF1ZWROYWhpcm1UUG8zMUpLSFczVVU1b0cyaFNhRVhtZTUrNzJNM2tmbXpBTjc1ZUV3VGZZTld4enJVRUxHcGR2RkNUUEljYlBNMHBuMUpHK2dBdz09Cg==",
       "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.4-linux/LazyTyper-x86_64.AppImage"
     }
   }
