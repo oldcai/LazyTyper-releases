@@ -1,10 +1,10 @@
 {
   "version": "1.8.8-nightly.4",
-  "pub_date": "2026-04-04T06:21:13Z",
-  "notes": "\u2022 Backup and sync your app settings easily\n\u2022 Select microphones directly from the system tray\n\u2022 Lower volume instead of muting while recording\n\u2022 Improved automatic filler word removal\n\u2022 Test and optimize custom AI prompts",
+  "pub_date": "2026-04-04T13:05:36Z",
+  "notes": "\u2022 Easily backup and sync your custom settings\n\u2022 Quickly change microphones directly from the tray\n\u2022 Automatically remove filler words from transcripts\n\u2022 Customize audio feedback sounds in settings\n\u2022 Choose a custom folder for saving AI models",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHE3VnZSU0toVVpuZXdTZGM0Qm5nV3lrVjdNbmFuQmFiS0FwTmNJbnVLZmFLS3RFNjRXaWNJSVdhR0VDempDdFNnRHoxQWc3TUhkRlRwa0lRYjNsOWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjgzMzI2CWZpbGU6TGF6eVR5cGVyLXg4Nl82NC5BcHBJbWFnZQpXYlF1ZWROYWhpcm1UUG8zMUpLSFczVVU1b0cyaFNhRVhtZTUrNzJNM2tmbXpBTjc1ZUV3VGZZTld4enJVRUxHcGR2RkNUUEljYlBNMHBuMUpHK2dBdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGhkWXRsNzNybCt0VnNFMHFPa01rWmhER2hhTUFnd3RJeXErOUxXRWxRTUxzSXpmQ3dlSldTYnNLbkxXQzJrYWJGMzM0QmdqSXlGdGIrQ0daQTJic3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzA3NTcyCWZpbGU6TGF6eVR5cGVyLXg4Nl82NC5BcHBJbWFnZQpNU2c4RHYyNWlpOHh2MmRwdXdteS9XbFVoVWJQSWY4SitSTHZUcXh3emwzTnB2Y3BHbFB1dEcvd2pNV3VDSzBobjlQeEFteTFBQ3JFTC9PbDRIZW1DUT09Cg==",
       "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.4-linux/LazyTyper-x86_64.AppImage"
     }
   }
