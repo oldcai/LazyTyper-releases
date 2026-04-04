@@ -1,10 +1,10 @@
 {
   "version": "1.8.8-nightly.4",
-  "pub_date": "2026-04-03T23:12:12Z",
-  "notes": "\u2022 Automatically remove filler words from transcripts.\n\u2022 Easily export and import your app settings.\n\u2022 Toggle automatic punctuation on or off.\n\u2022 Customize your audio feedback sounds.",
+  "pub_date": "2026-04-04T04:54:38Z",
+  "notes": "\u2022 Export and backup your app settings easily\n\u2022 New AI provider catalog in system tray\n\u2022 Option to lower volume during voice recording\n\u2022 More control over punctuation and text spacing\n\u2022 Improved text insertion across desktop apps",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGpZTElpU0QwMEk1OUJySEYydlVXa2VqVk4yZVpiSU5BUTBkL1BBa1F2WGZoYlNOdFFDUXpWTXBYRE9IazJCQXp4V0VlS2h0ZUF6KzFSaW9jeXpMemdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjU3NTU3CWZpbGU6TGF6eVR5cGVyLXg4Nl82NC5BcHBJbWFnZQpQRHYyUGRiciswZFNLYlpnN3p2dnJCSWtzcVNyV0JPdUEwUzlvdHlxTVl2K0pZRHlkcC9LelhCNjNOb1RlODB1VFBYSElKZExob1RXWXBMM0xZYkVCQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHVVTFJrRjRnU1NpNFJIcWxiWmRqcDlYMllubjZLcVZZZE9pQ0hrenR5aUs5U2JvZlg2am9jdDFWaTY2ZEdUNVgzdXNJUnR3Q3FzN05KUzhTQml0Q1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mjc4MTAzCWZpbGU6TGF6eVR5cGVyLXg4Nl82NC5BcHBJbWFnZQp5em9HTlhjemhqWU1IaWMydmlpVFpPem1Ub1BDR0FSSzVWYWhySWpoS0tDUHBnRys4ZUhLOGQrVGZkYVBBbFU0UUpEWS91d09QQmdmUW1ZekJYZEpEdz09Cg==",
       "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.4-linux/LazyTyper-x86_64.AppImage"
     }
   }
