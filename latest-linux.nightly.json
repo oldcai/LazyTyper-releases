@@ -1,11 +1,11 @@
 {
   "version": "1.8.8-nightly.6",
-  "pub_date": "2026-04-14T05:31:03Z",
-  "notes": "\u2022 Redesigned gaming mode with per-app behavior\n\u2022 Simplified recording guide for easier setup\n\u2022 New reliable backup and restore system\n\u2022 Easier controls for audio enhancement",
+  "pub_date": "2026-04-14T10:03:18Z",
+  "notes": "\u2022 Redesigned Gaming Mode with per-app settings\n\u2022 Easily connect transcription to other apps\n\u2022 Improved settings backup and restore\n\u2022 New master switch for audio enhancement",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHRvaldRS1ViU1RwRE9tRWc3a1RURzNmbVBFcE45dDk4RmVlUlZWU0hvVWxXZ0txbFd5dTYxTG8vTjBROG1heFlwVFIyN2QvUzNqNm1lbFlzNTMwaHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTQ0NTY5CWZpbGU6TGF6eVR5cGVyLTEuOC44LW5pZ2h0bHkuNi1saW51eC14NjQudGFyLmd6ClFkcVd6bUhhYThGeHE3L0xsL0hFbEhPS211bWk1ZmxEaGtYalVYTko2bk1ORW5pSmxsQjdKT1BuVi91TVdCUlMyVlhydU85YXdhQ1dNWmR0OWhKRkRnPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.6-linux/LazyTyper-1.8.8-nightly.6-linux-x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHZiNjFlZGZqQUkySUIrYmt5R2JJK3hMSm9GY0JhQW9qRk9IZ3FPdkYrMzN1TFV0WC96U2RNcHpqN1ZySWpVQzZTWnptM2VOZTZCNjkrYVB4VFNySmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTYwMzc5CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuNl9hbWQ2NC5BcHBJbWFnZQppRnoxVk9Pb0NtWnRzS1BPQjljeFE3Vkg5ZUw3NERoZGN0QXdLTFBFNDJybk0rU3U4V2pnbTNQaVFPai9wTkNHTFZsTkdmMGVTSEVXd3VFd1J5OVRCUT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.6-linux/LazyTyper_1.8.8-nightly.6_amd64.AppImage"
     }
   }
 }
