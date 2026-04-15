@@ -1,10 +1,10 @@
 {
   "version": "1.8.8-nightly.6",
-  "pub_date": "2026-04-15T06:56:22Z",
-  "notes": "\u2022 Redesigned gaming mode with custom app settings\n\u2022 Easier settings backup and restore process\n\u2022 New master switch for audio enhancements\n\u2022 Improved local transcription model reliability",
+  "pub_date": "2026-04-15T10:09:28Z",
+  "notes": "\u2022 Redesigned gaming mode with per-app settings\n\u2022 Improved settings backup and restore\n\u2022 Simplified guide for recording modes\n\u2022 New API to connect other apps\n\u2022 More reliable local model transcription",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJnYmI4VlJoYkNzOEh3UVRjd0VnRzkxVUNRc0pPb1NYLzhocFdwLzh2emdyWXM5N3E0Y0lST3N6QWs1dzlMTWRHeUlBL2dhUXNFaVh6VHJGWFMveGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjM1ODU3CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuNl9hbWQ2NC5BcHBJbWFnZQpTRlFwU2hqR3hHNms1L2FaZWxtS0Nqd3RRY1JqaHhxb1ppVHczbDlPMFZGUmY5SDd2VTJVU2NVUXV0eTBFUkhPNVFxZlJrQmFRMC9LZkpnN3JiRVBBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGdZdTI3OWl6WEtPM255bXhjaS9IL0J4V3ljekJ2YzFoUTN5bDlDWlJEUk94NlV1QjJ1THU3OU1lU1lKcG1CdlhYTlpPT2N0RkpaY1NwWVJOb0hINWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjQ3MzY5CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuNl9hbWQ2NC5BcHBJbWFnZQpzR3p4ZlBzUDNmeHlFMzZ6ZFlOVXBkbTZNTkFnWVBNOFVJWmE5ektmajNKL3B0dGx4MW5JVmhxYXRQWW9GNGtPU0laQ0twOVdxc0dZUzZSSXlEQ2pCZz09Cg==",
       "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.6-linux/LazyTyper_1.8.8-nightly.6_amd64.AppImage"
     }
   }
