@@ -1,19 +1,18 @@
 {
-  "version": "1.8.8-nightly.7",
-  "pub_date": "2026-04-18T11:42:53Z",
+  "version": "1.8.8-nightly.8",
+  "pub_date": "2026-04-29T13:13:39Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHRTclQyMEhacnFqSUEzanJWR2c3YjVuL2wxekRucjlOMnRZd21TQU83K2RBazY5ZzVqQmd6SUluUmgwLzNzbWMzQis5SGZzbkZZaCtYUExYOURHdEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTEyMzE5CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuN191bml2ZXJzYWwuYXBwLnRhci5negpmSU1YM2l6L1JzMVlhUWJWc09BalhPeE9aWWtHZW8xRi9SQU1Nd0NKK2kvTGt3aFNRNUFSVlQ4dllveUw3MXlOTUlLRVc3WFdrS1JIU01tMEhBOG9DUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.7/LazyTyper_1.8.8-nightly.7_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGliRWFySXE0S3A2SCtHa2pCTzNKSFhQeHBlckloelRhUjkvQlFleE91cVpaVXV3WlIwUFRDNDdKMWVPbStZMXI3VWpkREhHeFFqaDBZSmV4NTVkYVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDY3NDY1CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negpQZTd1SEh2ZlFhdDhqOGVSa2NOVUNxcS9wRUUzM3BFajdyOTdZWGJDREdNelRCNUhVc3EzZGthdm9QVngwVVlQcjExYUp1MTNjamdmNzF0WUpiSFhCdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.8/LazyTyper_1.8.8-nightly.8_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHRTclQyMEhacnFqSUEzanJWR2c3YjVuL2wxekRucjlOMnRZd21TQU83K2RBazY5ZzVqQmd6SUluUmgwLzNzbWMzQis5SGZzbkZZaCtYUExYOURHdEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTEyMzE5CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuN191bml2ZXJzYWwuYXBwLnRhci5negpmSU1YM2l6L1JzMVlhUWJWc09BalhPeE9aWWtHZW8xRi9SQU1Nd0NKK2kvTGt3aFNRNUFSVlQ4dllveUw3MXlOTUlLRVc3WFdrS1JIU01tMEhBOG9DUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.7/LazyTyper_1.8.8-nightly.7_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGliRWFySXE0S3A2SCtHa2pCTzNKSFhQeHBlckloelRhUjkvQlFleE91cVpaVXV3WlIwUFRDNDdKMWVPbStZMXI3VWpkREhHeFFqaDBZSmV4NTVkYVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDY3NDY1CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negpQZTd1SEh2ZlFhdDhqOGVSa2NOVUNxcS9wRUUzM3BFajdyOTdZWGJDREdNelRCNUhVc3EzZGthdm9QVngwVVlQcjExYUp1MTNjamdmNzF0WUpiSFhCdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.8/LazyTyper_1.8.8-nightly.8_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHRTclQyMEhacnFqSUEzanJWR2c3YjVuL2wxekRucjlOMnRZd21TQU83K2RBazY5ZzVqQmd6SUluUmgwLzNzbWMzQis5SGZzbkZZaCtYUExYOURHdEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTEyMzE5CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuN191bml2ZXJzYWwuYXBwLnRhci5negpmSU1YM2l6L1JzMVlhUWJWc09BalhPeE9aWWtHZW8xRi9SQU1Nd0NKK2kvTGt3aFNRNUFSVlQ4dllveUw3MXlOTUlLRVc3WFdrS1JIU01tMEhBOG9DUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.7/LazyTyper_1.8.8-nightly.7_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGliRWFySXE0S3A2SCtHa2pCTzNKSFhQeHBlckloelRhUjkvQlFleE91cVpaVXV3WlIwUFRDNDdKMWVPbStZMXI3VWpkREhHeFFqaDBZSmV4NTVkYVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDY3NDY1CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negpQZTd1SEh2ZlFhdDhqOGVSa2NOVUNxcS9wRUUzM3BFajdyOTdZWGJDREdNelRCNUhVc3EzZGthdm9QVngwVVlQcjExYUp1MTNjamdmNzF0WUpiSFhCdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.8/LazyTyper_1.8.8-nightly.8_universal.app.tar.gz"
     }
-  },
-  "notes": "\u2022 Custom rules for specific applications\n\u2022 Simplified settings for direct text insertion\n\u2022 Improved reliability for local transcription"
+  }
 }
