@@ -1,19 +1,19 @@
 {
-  "version": "1.8.8-nightly.9",
-  "pub_date": "2026-05-06T00:03:06Z",
+  "version": "1.8.8-nightly.10",
+  "pub_date": "2026-05-09T11:26:49Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG5ndkJwd3ZtY2tkNmZDbWJGcXNZMnBnZ1pmOEJCVHc1MmQzSEI1NnFiSVNEZ0Y4YzlVaWg2M1FEdXh3YURiNjJ4WTFNelpsM3dpZmZyRDEwazYvckFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDI1NTM0CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuOV91bml2ZXJzYWwuYXBwLnRhci5nego3ZTEwVXI0WU53dHBOS3Z0a3FQanJzQ1RYYUNad1lXZDFzalo4cjNBRG5BbWdWOEpUTmlHQXVsN2ExSURncFlpR01yZzBPSWl2SXRFMlVEYUovZGZBQT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.9/LazyTyper_1.8.8-nightly.9_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGdpdkVDOFc0Q0tIUGdTb1B3ZC85QjIvWXp0SHdnUmdKYWVkNk1EVjc4S2phZjFITU1Tcmd1VTdRaVVYN2xRSmN5Zk93T2VGd05qYjZCQWlyVVB1ekFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzI1NzU1CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTBfdW5pdmVyc2FsLmFwcC50YXIuZ3oKMHh2RmhwRmJIclV0c3FvNk1NRXhBQWZiaDdDblBGeTBJZFFrMmU1My9Eb0tVYWJ6em1weDQxM0ZOY3FGWFNyUlBHUDFsK3FLWTRsQjIrTFhwMDNlQnc9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.10/LazyTyper_1.8.8-nightly.10_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG5ndkJwd3ZtY2tkNmZDbWJGcXNZMnBnZ1pmOEJCVHc1MmQzSEI1NnFiSVNEZ0Y4YzlVaWg2M1FEdXh3YURiNjJ4WTFNelpsM3dpZmZyRDEwazYvckFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDI1NTM0CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuOV91bml2ZXJzYWwuYXBwLnRhci5nego3ZTEwVXI0WU53dHBOS3Z0a3FQanJzQ1RYYUNad1lXZDFzalo4cjNBRG5BbWdWOEpUTmlHQXVsN2ExSURncFlpR01yZzBPSWl2SXRFMlVEYUovZGZBQT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.9/LazyTyper_1.8.8-nightly.9_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGdpdkVDOFc0Q0tIUGdTb1B3ZC85QjIvWXp0SHdnUmdKYWVkNk1EVjc4S2phZjFITU1Tcmd1VTdRaVVYN2xRSmN5Zk93T2VGd05qYjZCQWlyVVB1ekFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzI1NzU1CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTBfdW5pdmVyc2FsLmFwcC50YXIuZ3oKMHh2RmhwRmJIclV0c3FvNk1NRXhBQWZiaDdDblBGeTBJZFFrMmU1My9Eb0tVYWJ6em1weDQxM0ZOY3FGWFNyUlBHUDFsK3FLWTRsQjIrTFhwMDNlQnc9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.10/LazyTyper_1.8.8-nightly.10_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG5ndkJwd3ZtY2tkNmZDbWJGcXNZMnBnZ1pmOEJCVHc1MmQzSEI1NnFiSVNEZ0Y4YzlVaWg2M1FEdXh3YURiNjJ4WTFNelpsM3dpZmZyRDEwazYvckFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDI1NTM0CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuOV91bml2ZXJzYWwuYXBwLnRhci5nego3ZTEwVXI0WU53dHBOS3Z0a3FQanJzQ1RYYUNad1lXZDFzalo4cjNBRG5BbWdWOEpUTmlHQXVsN2ExSURncFlpR01yZzBPSWl2SXRFMlVEYUovZGZBQT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.9/LazyTyper_1.8.8-nightly.9_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGdpdkVDOFc0Q0tIUGdTb1B3ZC85QjIvWXp0SHdnUmdKYWVkNk1EVjc4S2phZjFITU1Tcmd1VTdRaVVYN2xRSmN5Zk93T2VGd05qYjZCQWlyVVB1ekFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzI1NzU1CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTBfdW5pdmVyc2FsLmFwcC50YXIuZ3oKMHh2RmhwRmJIclV0c3FvNk1NRXhBQWZiaDdDblBGeTBJZFFrMmU1My9Eb0tVYWJ6em1weDQxM0ZOY3FGWFNyUlBHUDFsK3FLWTRsQjIrTFhwMDNlQnc9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.10/LazyTyper_1.8.8-nightly.10_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 Faster response when starting voice recordings\n\u2022 Improved reliability for offline transcription\n\u2022 Fixed input freezing issues on macOS\n\u2022 More reliable text pasting into apps\n\u2022 Added support for Termius on Windows"
+  "notes": "\u2022 Smart model recommendations tailored to your device\n\u2022 Easily switch between Stable and Nightly updates\n\u2022 Adjust volume levels for individual audio cues\n\u2022 Fixed reliability issues with the Escape shortcut"
 }
