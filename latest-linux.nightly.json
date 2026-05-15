@@ -1,11 +1,11 @@
 {
-  "version": "1.8.8-nightly.11",
-  "pub_date": "2026-05-11T15:59:48Z",
-  "notes": "\u2022 Restored the Polish shortcuts column\n\u2022 Use AI polishing without API keys locally\n\u2022 Text reliably types into your active window",
+  "version": "1.8.8-nightly.12",
+  "pub_date": "2026-05-15T19:20:00Z",
+  "notes": "\u2022 More reliable hold-to-talk activation\n\u2022 Fixed bugs with hotkey combinations\n\u2022 General performance improvements and bug fixes",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGxEb0t6eW5UYjlvb1dXdkpiMTc4QmQ5dzE1aEpqWmdreWREZ25MLzhocXorOGtKMVRheThOTVFkV2lSdkZ1TXl4R3hhTjcxeWhGdkxXdldma3pnblFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTE0ODk0CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTFfYW1kNjQuQXBwSW1hZ2UKYkVUY1BSNVM4b25SdWFjbjdSSmoyeEV6bmpFblg2ZE0rU2tFK2cxb25yRHVZQisyekVHM1A1TWMra1hjMmFlampJL3ljSDQvdzQ0TTlXQXU4NWg4Qmc9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.11-linux/LazyTyper_1.8.8-nightly.11_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGhvdTMrQmhuZG14azczdGFtZ3dzVG5tdU1FdnY3bTBHMk93STRITld1TFhGZitGakU3ZlpSOGcrZENIa3JJV1hXVXBqTk9CVTJLSi9WMGtPMjV5MUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODcxNjc0CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTJfYW1kNjQuQXBwSW1hZ2UKRWl2VFFjdnVHZjB2NFVDYlFVdjNyWTRhTytQUnBUcWJaUmpaTzF3SXplNWN5UW1uUDllZldPUWNoUTVOYnZoaG9rYUFjbHQ5RmllczEzU2dqSHBqREE9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.12-linux/LazyTyper_1.8.8-nightly.12_amd64.AppImage"
     }
   }
 }
