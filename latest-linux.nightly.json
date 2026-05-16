@@ -1,11 +1,11 @@
 {
-  "version": "1.8.8-nightly.12",
-  "pub_date": "2026-05-15T19:20:00Z",
-  "notes": "\u2022 More reliable hold-to-talk activation\n\u2022 Fixed bugs with hotkey combinations\n\u2022 General performance improvements and bug fixes",
+  "version": "1.8.8-nightly.15",
+  "pub_date": "2026-05-16T15:35:25Z",
+  "notes": "\u2022 Preview app icons directly on style cards\n\u2022 Access transcriptions over your local network\n\u2022 General performance improvements and bug fixes",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGhvdTMrQmhuZG14azczdGFtZ3dzVG5tdU1FdnY3bTBHMk93STRITld1TFhGZitGakU3ZlpSOGcrZENIa3JJV1hXVXBqTk9CVTJLSi9WMGtPMjV5MUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODcxNjc0CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTJfYW1kNjQuQXBwSW1hZ2UKRWl2VFFjdnVHZjB2NFVDYlFVdjNyWTRhTytQUnBUcWJaUmpaTzF3SXplNWN5UW1uUDllZldPUWNoUTVOYnZoaG9rYUFjbHQ5RmllczEzU2dqSHBqREE9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.12-linux/LazyTyper_1.8.8-nightly.12_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGlLbEx1ZFVpelRlSW5MY1JCZzBUdW51OEtOOGI5bUxXS2pyYllKa1lUOU9tYWo4cmJkV1VXV2hiZ25ydVArYWJUVG9BRVF1U09XRVo4a2V6dGpHZ1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTQ1NDc1CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTVfYW1kNjQuQXBwSW1hZ2UKRkhma3N0Nlk0QU91YWpwcTlldmNlVHZRTXh0RHM1RDZmMmdxK0Q5aVFJdE1obEU0WDhROUpCVVNVbytHUG9xOTRUSVQ1WThzcDJRUTJsbFhHb0swQ3c9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.15-linux/LazyTyper_1.8.8-nightly.15_amd64.AppImage"
     }
   }
 }
