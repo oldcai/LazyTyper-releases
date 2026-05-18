@@ -1,11 +1,11 @@
 {
-  "version": "1.8.8-nightly.15",
-  "pub_date": "2026-05-16T15:35:25Z",
-  "notes": "\u2022 Preview app icons directly on style cards\n\u2022 Access transcriptions over your local network\n\u2022 General performance improvements and bug fixes",
+  "version": "1.8.8-nightly.16",
+  "pub_date": "2026-05-18T01:15:07Z",
+  "notes": "\u2022 Connect to local network AI servers\n\u2022 Fixed custom server model selection\n\u2022 General performance and stability improvements",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGlLbEx1ZFVpelRlSW5MY1JCZzBUdW51OEtOOGI5bUxXS2pyYllKa1lUOU9tYWo4cmJkV1VXV2hiZ25ydVArYWJUVG9BRVF1U09XRVo4a2V6dGpHZ1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTQ1NDc1CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTVfYW1kNjQuQXBwSW1hZ2UKRkhma3N0Nlk0QU91YWpwcTlldmNlVHZRTXh0RHM1RDZmMmdxK0Q5aVFJdE1obEU0WDhROUpCVVNVbytHUG9xOTRUSVQ1WThzcDJRUTJsbFhHb0swQ3c9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.15-linux/LazyTyper_1.8.8-nightly.15_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJjak43aGxITW4xVFdGTUIvSk80RFVWelN1OUx2Y2hGSkZaNXgwRGZ5OTFKZ243ZVpweDhBU1RnWGVVK01GUm1wYzlSVllsblFpOWgvY2F2TW9rU2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDY2NjMwCWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTZfYW1kNjQuQXBwSW1hZ2UKaWoybGp0MmFhSnQwa1ZWUnRMR1huaXI1STFzRTFobXJMV3NNbFgxQStSVzJ2NzhadWk1a1JkYVJ2bGFUV01HcnBXZXdMVHhtMko2M0M4ZGdLdnZYQmc9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.16-linux/LazyTyper_1.8.8-nightly.16_amd64.AppImage"
     }
   }
 }
