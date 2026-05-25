@@ -1,19 +1,19 @@
 {
-  "version": "1.8.8-nightly.17",
-  "pub_date": "2026-05-21T07:50:17Z",
+  "version": "1.8.9-nightly.1",
+  "pub_date": "2026-05-25T01:00:39Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHZVbjAvSWhFYVp4bkl2Nnd4WERTTGZZUXUrTW9LcmN4UkY5RzFqeU9PTnJxK2RITjNmSUl1RmVMUXZMcFpueWlCeXVhNUNsTmwxNE9QY0hiSkVEM2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzQ4ODU3CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTdfdW5pdmVyc2FsLmFwcC50YXIuZ3oKUmczRzRXQ1I2S1lwNTNEVzBHT2Uwa2xKTnAzM3dkUzdjM1Y4ejY2SFYzNk5VT010eW5UNnlLTWVrRGFyR3pXdXZWd1ZlQXZzNUNkQ254cFE0NmFqQVE9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.17/LazyTyper_1.8.8-nightly.17_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHV6RHhEMmlaTEtpLzM1TG9FUTFLSWVJeWowQ2hmaDE1ZU1tQUxYbUpKUDRaRi9lWGU3N2l5bk1ua1Y1SHRMZldVM1cvbDBnL25RWmZMZ0xoblFpZVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjcwNTI1CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuMV91bml2ZXJzYWwuYXBwLnRhci5nego1Y3RULzhYSXdwcit4NWhIa3pZT1VTak9wVmZmS0c1OGQ1QWRXUmp2NFdRTklOQTg5MHF2ZG95UUxaa0l0OC9OdEVDTmNDTldSNE0rSWtXb3RZN0RCQT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.1/LazyTyper_1.8.9-nightly.1_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHZVbjAvSWhFYVp4bkl2Nnd4WERTTGZZUXUrTW9LcmN4UkY5RzFqeU9PTnJxK2RITjNmSUl1RmVMUXZMcFpueWlCeXVhNUNsTmwxNE9QY0hiSkVEM2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzQ4ODU3CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTdfdW5pdmVyc2FsLmFwcC50YXIuZ3oKUmczRzRXQ1I2S1lwNTNEVzBHT2Uwa2xKTnAzM3dkUzdjM1Y4ejY2SFYzNk5VT010eW5UNnlLTWVrRGFyR3pXdXZWd1ZlQXZzNUNkQ254cFE0NmFqQVE9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.17/LazyTyper_1.8.8-nightly.17_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHV6RHhEMmlaTEtpLzM1TG9FUTFLSWVJeWowQ2hmaDE1ZU1tQUxYbUpKUDRaRi9lWGU3N2l5bk1ua1Y1SHRMZldVM1cvbDBnL25RWmZMZ0xoblFpZVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjcwNTI1CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuMV91bml2ZXJzYWwuYXBwLnRhci5nego1Y3RULzhYSXdwcit4NWhIa3pZT1VTak9wVmZmS0c1OGQ1QWRXUmp2NFdRTklOQTg5MHF2ZG95UUxaa0l0OC9OdEVDTmNDTldSNE0rSWtXb3RZN0RCQT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.1/LazyTyper_1.8.9-nightly.1_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHZVbjAvSWhFYVp4bkl2Nnd4WERTTGZZUXUrTW9LcmN4UkY5RzFqeU9PTnJxK2RITjNmSUl1RmVMUXZMcFpueWlCeXVhNUNsTmwxNE9QY0hiSkVEM2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzQ4ODU3CWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTdfdW5pdmVyc2FsLmFwcC50YXIuZ3oKUmczRzRXQ1I2S1lwNTNEVzBHT2Uwa2xKTnAzM3dkUzdjM1Y4ejY2SFYzNk5VT010eW5UNnlLTWVrRGFyR3pXdXZWd1ZlQXZzNUNkQ254cFE0NmFqQVE9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.17/LazyTyper_1.8.8-nightly.17_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHV6RHhEMmlaTEtpLzM1TG9FUTFLSWVJeWowQ2hmaDE1ZU1tQUxYbUpKUDRaRi9lWGU3N2l5bk1ua1Y1SHRMZldVM1cvbDBnL25RWmZMZ0xoblFpZVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjcwNTI1CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuMV91bml2ZXJzYWwuYXBwLnRhci5nego1Y3RULzhYSXdwcit4NWhIa3pZT1VTak9wVmZmS0c1OGQ1QWRXUmp2NFdRTklOQTg5MHF2ZG95UUxaa0l0OC9OdEVDTmNDTldSNE0rSWtXb3RZN0RCQT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.1/LazyTyper_1.8.9-nightly.1_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 Cleaner AI text polishing without unwanted extra words\n\u2022 Improved reliability for local transcription models\n\u2022 General performance improvements and bug fixes"
+  "notes": "\u2022 More reliable transcriptions with smart retries\n\u2022 Enhanced custom AI text polishing options\n\u2022 Smoother and more reliable keyboard shortcuts\n\u2022 Simplified voice translation language settings"
 }
