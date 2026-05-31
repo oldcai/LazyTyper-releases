@@ -1,11 +1,11 @@
 {
-  "version": "1.8.8-nightly.16",
-  "pub_date": "2026-05-18T01:15:07Z",
-  "notes": "\u2022 Connect to local network AI servers\n\u2022 Fixed custom server model selection\n\u2022 General performance and stability improvements",
+  "version": "1.8.9-nightly.5",
+  "pub_date": "2026-05-31T22:48:41Z",
+  "notes": "\u2022 Improved transcription accuracy and language recognition\n\u2022 Fixed processing for very short voice notes\n\u2022 Fixed paste keyboard shortcuts on Mac",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJjak43aGxITW4xVFdGTUIvSk80RFVWelN1OUx2Y2hGSkZaNXgwRGZ5OTFKZ243ZVpweDhBU1RnWGVVK01GUm1wYzlSVllsblFpOWgvY2F2TW9rU2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDY2NjMwCWZpbGU6TGF6eVR5cGVyXzEuOC44LW5pZ2h0bHkuMTZfYW1kNjQuQXBwSW1hZ2UKaWoybGp0MmFhSnQwa1ZWUnRMR1huaXI1STFzRTFobXJMV3NNbFgxQStSVzJ2NzhadWk1a1JkYVJ2bGFUV01HcnBXZXdMVHhtMko2M0M4ZGdLdnZYQmc9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-nightly.16-linux/LazyTyper_1.8.8-nightly.16_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1CZUZCSkpzMXhVMjFnbjFtak1MdlJtRTZTZUN4R0kyZ1NQbUhVOUdRTkpuaG13SUZsT1BTSkxVdFUrOER5alhGeDdHV05USGRZWWFSNC9ISVF0andvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY3NDM0CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuNV9hbWQ2NC5BcHBJbWFnZQpkeDQ1dGNhVWlZMTZxUUsvUXpDc1ltaG5oN2pIM3NWUWJpZTlGRjNoRGROa3kwbzg1dG1pMGx2VlVYUHRHMGZTdURzQVZKZFNRTnJaMUR0Tk82azdEdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.5-linux/LazyTyper_1.8.9-nightly.5_amd64.AppImage"
     }
   }
 }
