@@ -1,19 +1,19 @@
 {
-  "version": "1.8.9-nightly.3",
-  "pub_date": "2026-05-30T06:37:01Z",
+  "version": "1.8.9-nightly.5",
+  "pub_date": "2026-05-31T21:59:47Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGl4RWxpYmxYWGRPVUUxMUwrcWpWYjVnYXpNNm5acVo1cHdiNmpDWTNLWHpMaHo1cmlzTG42d3k1UXEyQ0ZoS3VmNEw3Nk5RWkpDeWlCcHk1cUlya1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTIyNjc4CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuM191bml2ZXJzYWwuYXBwLnRhci5negp2c29WVGlPUUxFcDdIUUZqUVhSQUxxUlRLNFdvRTczdnFrSGVvZzBmcFpaNGJTWFBKNStPbEFrRXJGRzN2U1dnNjBheXNlZ1hkWnErNVFXL1lyR2VCQT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.3/LazyTyper_1.8.9-nightly.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHVOcVppb0I3RVB5a0lVL2N6K2YyZi9McHl2bVoxMXBHMmFWU2hUbURVMUdxeTF0SmRtZTBsOFBkVVdSM2hTZllQelFNdWpMS0pEN1F4S1pHN0RQc3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY0NTM1CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negpBQzlEalliY0NSZUFPUDdNanRacktObUFCc3VSNzZxL1VxZFRGUkp6VTdoUWtrWUkrWUVBUmNXbk8vdzJVbE1GNm5kVDBVQy9wWlN6aStaWVZ0VGRCQT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.5/LazyTyper_1.8.9-nightly.5_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGl4RWxpYmxYWGRPVUUxMUwrcWpWYjVnYXpNNm5acVo1cHdiNmpDWTNLWHpMaHo1cmlzTG42d3k1UXEyQ0ZoS3VmNEw3Nk5RWkpDeWlCcHk1cUlya1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTIyNjc4CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuM191bml2ZXJzYWwuYXBwLnRhci5negp2c29WVGlPUUxFcDdIUUZqUVhSQUxxUlRLNFdvRTczdnFrSGVvZzBmcFpaNGJTWFBKNStPbEFrRXJGRzN2U1dnNjBheXNlZ1hkWnErNVFXL1lyR2VCQT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.3/LazyTyper_1.8.9-nightly.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHVOcVppb0I3RVB5a0lVL2N6K2YyZi9McHl2bVoxMXBHMmFWU2hUbURVMUdxeTF0SmRtZTBsOFBkVVdSM2hTZllQelFNdWpMS0pEN1F4S1pHN0RQc3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY0NTM1CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negpBQzlEalliY0NSZUFPUDdNanRacktObUFCc3VSNzZxL1VxZFRGUkp6VTdoUWtrWUkrWUVBUmNXbk8vdzJVbE1GNm5kVDBVQy9wWlN6aStaWVZ0VGRCQT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.5/LazyTyper_1.8.9-nightly.5_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGl4RWxpYmxYWGRPVUUxMUwrcWpWYjVnYXpNNm5acVo1cHdiNmpDWTNLWHpMaHo1cmlzTG42d3k1UXEyQ0ZoS3VmNEw3Nk5RWkpDeWlCcHk1cUlya1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTIyNjc4CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuM191bml2ZXJzYWwuYXBwLnRhci5negp2c29WVGlPUUxFcDdIUUZqUVhSQUxxUlRLNFdvRTczdnFrSGVvZzBmcFpaNGJTWFBKNStPbEFrRXJGRzN2U1dnNjBheXNlZ1hkWnErNVFXL1lyR2VCQT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.3/LazyTyper_1.8.9-nightly.3_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHVOcVppb0I3RVB5a0lVL2N6K2YyZi9McHl2bVoxMXBHMmFWU2hUbURVMUdxeTF0SmRtZTBsOFBkVVdSM2hTZllQelFNdWpMS0pEN1F4S1pHN0RQc3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY0NTM1CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negpBQzlEalliY0NSZUFPUDdNanRacktObUFCc3VSNzZxL1VxZFRGUkp6VTdoUWtrWUkrWUVBUmNXbk8vdzJVbE1GNm5kVDBVQy9wWlN6aStaWVZ0VGRCQT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.5/LazyTyper_1.8.9-nightly.5_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 View active transcription model directly in tray menu\n\u2022 Fixed Mac audio volume and device switching issues\n\u2022 Improved layout resizing for the transcription window\n\u2022 Fixed bug where the Escape key stopped working"
+  "notes": "\u2022 Improved transcription memory and language detection\n\u2022 Better handling of short and silent recordings\n\u2022 Fixed paste keyboard shortcuts on macOS"
 }
