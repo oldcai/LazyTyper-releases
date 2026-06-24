@@ -1,11 +1,11 @@
 {
-  "version": "1.8.9-nightly.5",
-  "pub_date": "2026-05-31T22:48:41Z",
-  "notes": "\u2022 Improved transcription accuracy and language recognition\n\u2022 Fixed processing for very short voice notes\n\u2022 Fixed paste keyboard shortcuts on Mac",
+  "version": "1.8.9-nightly.7",
+  "pub_date": "2026-06-24T18:28:46Z",
+  "notes": "\u2022 Copy and paste text directly from images.\n\u2022 Smarter auto-corrections for misrecognized words.\n\u2022 App now learns custom words from your edits.\n\u2022 Fixed layout wrapping issues on mobile screens.",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1CZUZCSkpzMXhVMjFnbjFtak1MdlJtRTZTZUN4R0kyZ1NQbUhVOUdRTkpuaG13SUZsT1BTSkxVdFUrOER5alhGeDdHV05USGRZWWFSNC9ISVF0andvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY3NDM0CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuNV9hbWQ2NC5BcHBJbWFnZQpkeDQ1dGNhVWlZMTZxUUsvUXpDc1ltaG5oN2pIM3NWUWJpZTlGRjNoRGROa3kwbzg1dG1pMGx2VlVYUHRHMGZTdURzQVZKZFNRTnJaMUR0Tk82azdEdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.5-linux/LazyTyper_1.8.9-nightly.5_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGt1R0wyYk1ONWFjb2RBZ0xkWExJaHQvaHpMTFVzYWdNbEV3K2RUazZlNUlSY1BBSDBtdzRrWElkRVI1SkdBNTFKcG8vM3NQbE9mZy9vK2RYZ0x4WndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzI1NDAzCWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuN19hbWQ2NC5BcHBJbWFnZQo3RWhIeno1andFbCttVm1EelE0QWp6WkdtekwydVVGdVlqU0w4RlVHTEdmQk1ybmVhSlJTREZxN1k1MnFwQ05qUDVWdGdkdXpJRDF5U2ZTQ0FBRU5EUT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.7-linux/LazyTyper_1.8.9-nightly.7_amd64.AppImage"
     }
   }
 }
