@@ -1,19 +1,19 @@
 {
-  "version": "1.8.9-nightly.8",
-  "pub_date": "2026-07-02T12:59:28Z",
+  "version": "1.8.9-nightly.9",
+  "pub_date": "2026-07-05T17:10:58Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJyQlFRNmJpU3REYzJ6cnFja1lLcFhQSmZKT1g5WEczTStNdXU3VHV1dUNRdUM1MG0vYkh6Q2RmbUdYVDE0ZG1HeXMzNldzUi9ueVo2N2JHWlhiZ3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk2NDIzCWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negovWlpwT0NNUkUrekFiRjN0OEtVdXZsMWhKR1l4VjMxb3V6SmRTVGFhMWZ0WVp5MUgxMFo5T2xWLzVjN3ZXbGhQQXlxQU9hZUlHYTNxZ1d1dmdBTFhCdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.8/LazyTyper_1.8.9-nightly.8_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHV0LzNIelBWMm12UXJ5M1B6ODNQNDg2ZnZOUEVBaXlqdW5MTDV2eTBoeUZDVHlLVGkzYVprL3N6M1JTRnp2QjA4Uk5zVXl3NXJ2c25JZEJUUGhYakFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjcwMjk0CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuOV91bml2ZXJzYWwuYXBwLnRhci5negp6NmdQVnV1N2RVUjR1Mm5sY05Vb1RUeWRhMGhLNXYvQkhQWTRCRVdDbHlBUk1uTHorb0pLMDRPUllZYUYzYnhLWEtrRmtGK1lMNUVvYW9vL2lHNU1EUT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.9/LazyTyper_1.8.9-nightly.9_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJyQlFRNmJpU3REYzJ6cnFja1lLcFhQSmZKT1g5WEczTStNdXU3VHV1dUNRdUM1MG0vYkh6Q2RmbUdYVDE0ZG1HeXMzNldzUi9ueVo2N2JHWlhiZ3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk2NDIzCWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negovWlpwT0NNUkUrekFiRjN0OEtVdXZsMWhKR1l4VjMxb3V6SmRTVGFhMWZ0WVp5MUgxMFo5T2xWLzVjN3ZXbGhQQXlxQU9hZUlHYTNxZ1d1dmdBTFhCdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.8/LazyTyper_1.8.9-nightly.8_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHV0LzNIelBWMm12UXJ5M1B6ODNQNDg2ZnZOUEVBaXlqdW5MTDV2eTBoeUZDVHlLVGkzYVprL3N6M1JTRnp2QjA4Uk5zVXl3NXJ2c25JZEJUUGhYakFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjcwMjk0CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuOV91bml2ZXJzYWwuYXBwLnRhci5negp6NmdQVnV1N2RVUjR1Mm5sY05Vb1RUeWRhMGhLNXYvQkhQWTRCRVdDbHlBUk1uTHorb0pLMDRPUllZYUYzYnhLWEtrRmtGK1lMNUVvYW9vL2lHNU1EUT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.9/LazyTyper_1.8.9-nightly.9_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJyQlFRNmJpU3REYzJ6cnFja1lLcFhQSmZKT1g5WEczTStNdXU3VHV1dUNRdUM1MG0vYkh6Q2RmbUdYVDE0ZG1HeXMzNldzUi9ueVo2N2JHWlhiZ3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk2NDIzCWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negovWlpwT0NNUkUrekFiRjN0OEtVdXZsMWhKR1l4VjMxb3V6SmRTVGFhMWZ0WVp5MUgxMFo5T2xWLzVjN3ZXbGhQQXlxQU9hZUlHYTNxZ1d1dmdBTFhCdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.8/LazyTyper_1.8.9-nightly.8_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHV0LzNIelBWMm12UXJ5M1B6ODNQNDg2ZnZOUEVBaXlqdW5MTDV2eTBoeUZDVHlLVGkzYVprL3N6M1JTRnp2QjA4Uk5zVXl3NXJ2c25JZEJUUGhYakFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjcwMjk0CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuOV91bml2ZXJzYWwuYXBwLnRhci5negp6NmdQVnV1N2RVUjR1Mm5sY05Vb1RUeWRhMGhLNXYvQkhQWTRCRVdDbHlBUk1uTHorb0pLMDRPUllZYUYzYnhLWEtrRmtGK1lMNUVvYW9vL2lHNU1EUT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.9/LazyTyper_1.8.9-nightly.9_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 Official offline models with smaller download sizes\n\u2022 Smarter text editing using clipboard and screen data\n\u2022 Fixed system-wide Escape key issues on Windows\n\u2022 Added visual tracking for AI text polishing"
+  "notes": "\u2022 Fixed audio recording freezing issues\n\u2022 Fixed garbled text in Asian languages\n\u2022 Faster performance on dual-graphics computers"
 }
