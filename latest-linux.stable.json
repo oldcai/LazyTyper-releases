@@ -1,11 +1,11 @@
 {
-  "version": "1.8.8",
-  "pub_date": "2026-05-24T00:11:55Z",
-  "notes": "\u2022 Added Anthropic and Zhipu AI provider support\n\u2022 New AI style generation and batch prompt testing\n\u2022 Smart hotwords and custom audio feedback sounds\n\u2022 Redesigned gaming mode and new record-and-translate flow\n\u2022 Visual history comparisons and better update notifications",
+  "version": "1.8.9",
+  "pub_date": "2026-07-10T01:56:14Z",
+  "notes": "\u2022 New pill-shaped recording interface with enlarged text view\n\u2022 Reads screen text and clipboard for smarter transcription context\n\u2022 App learns from your word corrections to improve accuracy\n\u2022 Improved microphone reliability with enhanced background noise reduction",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG9sYlpweHZqY3BrNWk2WkJ6aklpZTVSMFhZd1dOZnBTZXpLditvZE5sT1VpMVU0aVNIME5uSGF1cUV1UkNxUWJSb2h4NEsxUW5mU1VUNlBVMHc5UXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTgxMTk4CWZpbGU6TGF6eVR5cGVyXzEuOC44X2FtZDY0LkFwcEltYWdlCkxWbkRSc0hsakVOM1NFWm9YZzd6MFRWMlgwMTVXTDgyVGkrenA5dkR0Qkp5NEpHaDlmdWQwOWtvdjdPUHJ2ZlJzOHFhVDFnUHRkem5rRmQzaHgzUEF3PT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.8-linux/LazyTyper_1.8.8_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHI1dlM1RTFUVDU5Uitxano4Mm9YbVUxM0QyRDk0M2hweC9WeFZKQzlzTzBaTzYvK2NhMnZnM2tlSU45ZnA5bW9wU0k2WUhqS2RROHZqeGxYdTI3TndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjQ0MDYwCWZpbGU6TGF6eVR5cGVyXzEuOC45X2FtZDY0LkFwcEltYWdlClZrRmZDY2NMQlp2SEVEQlhqdjl0V1RJSU1KSjlNNTl1UXBCYkx3VXhDTjI4OUs4dVFoYWNjTlBDRk9YNDJZYnRGdi9xOEdTVDJjbG5rWGlwU0tTQ0JRPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-linux/LazyTyper_1.8.9_amd64.AppImage"
     }
   }
 }
