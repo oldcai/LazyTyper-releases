@@ -1,11 +1,11 @@
 {
-  "version": "1.8.9-nightly.9",
-  "pub_date": "2026-07-06T15:19:07Z",
-  "notes": "\u2022 Fixed freezing issues during Mac audio recording\n\u2022 Fixed scrambled text in Chinese and Korean transcriptions\n\u2022 Faster transcription speeds on dual-GPU laptops",
+  "version": "1.9.0-nightly.1",
+  "pub_date": "2026-07-15T23:39:41Z",
+  "notes": "\u2022 Added the new FireRed local transcription model\n\u2022 Quickly copy your last transcription from the tray\n\u2022 Improved popup window display for long text\n\u2022 Added image text extraction fallback for editing",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGh0SGZtVG8xUHBTTW0ybTZXWUlRR3krN2s1Y2hsZEtCNEpNUjNCdlBTZ3dNNFVnZTV6MEZxM2RQcnliQkVFODg2NUViNEhmZCtxVC8xeEt1QnZyN0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzQ5MTU0CWZpbGU6TGF6eVR5cGVyXzEuOC45LW5pZ2h0bHkuOV9hbWQ2NC5BcHBJbWFnZQp2YVU1RUhCb1hSRFpGa3hlMHlMTDVCT1FGYXZjLzI4c3VHMGxYUlFWY1d2dFp0cE81R0tRTDVTMnRaMUp0d3B4K3p4SVlHNHVuMllyRDVYSjhucmhEdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-nightly.9-linux/LazyTyper_1.8.9-nightly.9_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGlHbWl1ekdvZzF2ODRYSmpEc2d5UTJnUVRZTElmR0hycjZZcDhMcy9ZT1FjRUxVTS81MU10QUp6UXVsL0VnUnFtV0hkckJrQVNpemR5cmVFTm9XTlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTU3NjMyCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMV9hbWQ2NC5BcHBJbWFnZQpRNGN3Z1Z0RXYyamt6emF2LytublRLNEI0UGxtWmQvSWw2RnpJbHkrbzFHMHloTUVjUzI5djEvVWFZZjA3ZW84d0ZTY3A4MWZjcnBXLzlkTzA2NE5CZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.1-linux/LazyTyper_1.9.0-nightly.1_amd64.AppImage"
     }
   }
 }
