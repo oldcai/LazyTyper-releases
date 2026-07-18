@@ -1,19 +1,19 @@
 {
-  "version": "1.9.0-nightly.1",
-  "pub_date": "2026-07-15T18:38:24Z",
+  "version": "1.9.0-nightly.2",
+  "pub_date": "2026-07-18T10:38:28Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHZMTzdaN1MyM29zTVNXZmNKanVYMmlMSHg3VlpUUUExT2p2TDZETS9OdkhKNHdoYXd6MDZyajcrMTlTenpVZDdOS25Qa3gwQ3pVVjN4ZmgvOUZobkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQwNDQ1CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMV91bml2ZXJzYWwuYXBwLnRhci5negpTSHdtMHVUQXJmUTUrZVQ4Mkg0b1pRcWtFVituL3hPYVZvVy9CZWFvVDh5SEltVm9idEJESFdEL29Pa0grVkhGMlQ5QklsazJ4bGRXb0tQblJoTFBEUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.1/LazyTyper_1.9.0-nightly.1_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHU1aGY1S2ZmK2xqNXdVRVhXNWV6TlpHMWlINThPR1JSQmF6N245SnM3Rkd1MXllK3REYXlIZDdRNFRDT29tcGNJTUQvdXlwOFdua29CNmsrMUJ6bGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzcwODA4CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMl91bml2ZXJzYWwuYXBwLnRhci5negpBTXdQRldUWWYwTEptenZtcDF3RXVMQjVyRkIxNXdWRFlQTVMwWEZYR0M3cEdrMkFuUTN4SjlhM21HTWdCeDNNMHJUdjJNWTErcko1aTFXWUYrVlBDQT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.2/LazyTyper_1.9.0-nightly.2_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHZMTzdaN1MyM29zTVNXZmNKanVYMmlMSHg3VlpUUUExT2p2TDZETS9OdkhKNHdoYXd6MDZyajcrMTlTenpVZDdOS25Qa3gwQ3pVVjN4ZmgvOUZobkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQwNDQ1CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMV91bml2ZXJzYWwuYXBwLnRhci5negpTSHdtMHVUQXJmUTUrZVQ4Mkg0b1pRcWtFVituL3hPYVZvVy9CZWFvVDh5SEltVm9idEJESFdEL29Pa0grVkhGMlQ5QklsazJ4bGRXb0tQblJoTFBEUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.1/LazyTyper_1.9.0-nightly.1_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHU1aGY1S2ZmK2xqNXdVRVhXNWV6TlpHMWlINThPR1JSQmF6N245SnM3Rkd1MXllK3REYXlIZDdRNFRDT29tcGNJTUQvdXlwOFdua29CNmsrMUJ6bGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzcwODA4CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMl91bml2ZXJzYWwuYXBwLnRhci5negpBTXdQRldUWWYwTEptenZtcDF3RXVMQjVyRkIxNXdWRFlQTVMwWEZYR0M3cEdrMkFuUTN4SjlhM21HTWdCeDNNMHJUdjJNWTErcko1aTFXWUYrVlBDQT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.2/LazyTyper_1.9.0-nightly.2_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHZMTzdaN1MyM29zTVNXZmNKanVYMmlMSHg3VlpUUUExT2p2TDZETS9OdkhKNHdoYXd6MDZyajcrMTlTenpVZDdOS25Qa3gwQ3pVVjN4ZmgvOUZobkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQwNDQ1CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMV91bml2ZXJzYWwuYXBwLnRhci5negpTSHdtMHVUQXJmUTUrZVQ4Mkg0b1pRcWtFVituL3hPYVZvVy9CZWFvVDh5SEltVm9idEJESFdEL29Pa0grVkhGMlQ5QklsazJ4bGRXb0tQblJoTFBEUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.1/LazyTyper_1.9.0-nightly.1_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHU1aGY1S2ZmK2xqNXdVRVhXNWV6TlpHMWlINThPR1JSQmF6N245SnM3Rkd1MXllK3REYXlIZDdRNFRDT29tcGNJTUQvdXlwOFdua29CNmsrMUJ6bGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzcwODA4CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMl91bml2ZXJzYWwuYXBwLnRhci5negpBTXdQRldUWWYwTEptenZtcDF3RXVMQjVyRkIxNXdWRFlQTVMwWEZYR0M3cEdrMkFuUTN4SjlhM21HTWdCeDNNMHJUdjJNWTErcko1aTFXWUYrVlBDQT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.2/LazyTyper_1.9.0-nightly.2_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 Added powerful new FireRed local transcription model.\n\u2022 Quickly copy last transcription from system tray.\n\u2022 Improved window layout for long transcription results.\n\u2022 Smart text extraction fallback for image editing.\n\u2022 Fixed download errors for offline voice models."
+  "notes": "\u2022 Fixed an issue causing dropped or missing sentences.\n\u2022 Added new local models and per-language preferences.\n\u2022 Improved automatic punctuation for better text readability.\n\u2022 AI text polishing now works on past transcriptions."
 }
