@@ -1,19 +1,19 @@
 {
-  "version": "1.9.0-nightly.2",
-  "pub_date": "2026-07-18T10:38:28Z",
+  "version": "1.9.0-nightly.3",
+  "pub_date": "2026-07-23T15:12:03Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHU1aGY1S2ZmK2xqNXdVRVhXNWV6TlpHMWlINThPR1JSQmF6N245SnM3Rkd1MXllK3REYXlIZDdRNFRDT29tcGNJTUQvdXlwOFdua29CNmsrMUJ6bGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzcwODA4CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMl91bml2ZXJzYWwuYXBwLnRhci5negpBTXdQRldUWWYwTEptenZtcDF3RXVMQjVyRkIxNXdWRFlQTVMwWEZYR0M3cEdrMkFuUTN4SjlhM21HTWdCeDNNMHJUdjJNWTErcko1aTFXWUYrVlBDQT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.2/LazyTyper_1.9.0-nightly.2_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJXdEdlUkNWYjBycmp6ckxQUnlkdDdCZVhsY2JVVS9PYjV4OUxGT2s4bkNxQk0xNjJUZkJtRlFZU2JRZWwzdFhFM2VFMk9ydTlZSjBFVlZsYzhubGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODE5MjM5CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuM191bml2ZXJzYWwuYXBwLnRhci5negpyM3RWOVMzTGtSSHJnZWV6Znovc2lxMkFKZXBHbFY4bVRJMjRSVEExTDhMRFp6ayt4Y1RJWVNxS2N5L1plVU5YNlJIR1I2OGR3em9za1d4NTJ4UWRCZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.3/LazyTyper_1.9.0-nightly.3_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHU1aGY1S2ZmK2xqNXdVRVhXNWV6TlpHMWlINThPR1JSQmF6N245SnM3Rkd1MXllK3REYXlIZDdRNFRDT29tcGNJTUQvdXlwOFdua29CNmsrMUJ6bGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzcwODA4CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMl91bml2ZXJzYWwuYXBwLnRhci5negpBTXdQRldUWWYwTEptenZtcDF3RXVMQjVyRkIxNXdWRFlQTVMwWEZYR0M3cEdrMkFuUTN4SjlhM21HTWdCeDNNMHJUdjJNWTErcko1aTFXWUYrVlBDQT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.2/LazyTyper_1.9.0-nightly.2_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJXdEdlUkNWYjBycmp6ckxQUnlkdDdCZVhsY2JVVS9PYjV4OUxGT2s4bkNxQk0xNjJUZkJtRlFZU2JRZWwzdFhFM2VFMk9ydTlZSjBFVlZsYzhubGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODE5MjM5CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuM191bml2ZXJzYWwuYXBwLnRhci5negpyM3RWOVMzTGtSSHJnZWV6Znovc2lxMkFKZXBHbFY4bVRJMjRSVEExTDhMRFp6ayt4Y1RJWVNxS2N5L1plVU5YNlJIR1I2OGR3em9za1d4NTJ4UWRCZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.3/LazyTyper_1.9.0-nightly.3_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHU1aGY1S2ZmK2xqNXdVRVhXNWV6TlpHMWlINThPR1JSQmF6N245SnM3Rkd1MXllK3REYXlIZDdRNFRDT29tcGNJTUQvdXlwOFdua29CNmsrMUJ6bGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzcwODA4CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMl91bml2ZXJzYWwuYXBwLnRhci5negpBTXdQRldUWWYwTEptenZtcDF3RXVMQjVyRkIxNXdWRFlQTVMwWEZYR0M3cEdrMkFuUTN4SjlhM21HTWdCeDNNMHJUdjJNWTErcko1aTFXWUYrVlBDQT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.2/LazyTyper_1.9.0-nightly.2_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJXdEdlUkNWYjBycmp6ckxQUnlkdDdCZVhsY2JVVS9PYjV4OUxGT2s4bkNxQk0xNjJUZkJtRlFZU2JRZWwzdFhFM2VFMk9ydTlZSjBFVlZsYzhubGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODE5MjM5CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuM191bml2ZXJzYWwuYXBwLnRhci5negpyM3RWOVMzTGtSSHJnZWV6Znovc2lxMkFKZXBHbFY4bVRJMjRSVEExTDhMRFp6ayt4Y1RJWVNxS2N5L1plVU5YNlJIR1I2OGR3em9za1d4NTJ4UWRCZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.3/LazyTyper_1.9.0-nightly.3_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 Fixed an issue causing dropped or missing sentences.\n\u2022 Added new local models and per-language preferences.\n\u2022 Improved automatic punctuation for better text readability.\n\u2022 AI text polishing now works on past transcriptions."
+  "notes": "\u2022 New fully-local AI text polishing models\n\u2022 Support for multiple AI provider accounts\n\u2022 Automatically fixes ALL CAPS text to normal casing\n\u2022 Cleaned up AI markers and broken characters in text"
 }
