@@ -1,11 +1,11 @@
 {
-  "version": "1.9.0-nightly.1",
-  "pub_date": "2026-07-15T23:39:41Z",
-  "notes": "\u2022 Added the new FireRed local transcription model\n\u2022 Quickly copy your last transcription from the tray\n\u2022 Improved popup window display for long text\n\u2022 Added image text extraction fallback for editing",
+  "version": "1.9.0-nightly.4",
+  "pub_date": "2026-07-28T06:07:57Z",
+  "notes": "\u2022 New dedicated settings for Gaming Mode\n\u2022 Scrollable settings menu for easier navigation\n\u2022 Fixed microphone permission prompts on Mac\n\u2022 Added helpful descriptions to AI models",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGlHbWl1ekdvZzF2ODRYSmpEc2d5UTJnUVRZTElmR0hycjZZcDhMcy9ZT1FjRUxVTS81MU10QUp6UXVsL0VnUnFtV0hkckJrQVNpemR5cmVFTm9XTlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTU3NjMyCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuMV9hbWQ2NC5BcHBJbWFnZQpRNGN3Z1Z0RXYyamt6emF2LytublRLNEI0UGxtWmQvSWw2RnpJbHkrbzFHMHloTUVjUzI5djEvVWFZZjA3ZW84d0ZTY3A4MWZjcnBXLzlkTzA2NE5CZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.1-linux/LazyTyper_1.9.0-nightly.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG5EUmhMTG9keUNDTThOMkNVTlZvZklPcnhxOU5Pd21Iakt0Q1dVaTIvbmkwbEZBaUwzNGxFdTVTUUxQTUpFRGlrcGMrNHlJU25IVXR6ZlFtUS9EOEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjE0NDU2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNF9hbWQ2NC5BcHBJbWFnZQp5aFZrN2orYkVPR00vc0ZPd1phOXhuZnhsdExTTk9iNmcyUk9Fb084bWhkSUlxbWtGZ2c5ell1dnlLdmFNWU96VkhOZlR5c2pjVW9QT1RWbTk2OGREZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.4-linux/LazyTyper_1.9.0-nightly.4_amd64.AppImage"
     }
   }
 }
