@@ -1,19 +1,19 @@
 {
-  "version": "1.9.0-nightly.4",
-  "pub_date": "2026-07-27T16:49:54Z",
+  "version": "1.9.0-nightly.5",
+  "pub_date": "2026-08-01T16:40:17Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHVmYllrZG1vRFVWUXdJUmduMnZJNmUzdUpyV0N3N3o2QmFSSmY4eUdoUkhIOWlQMXBMOVdVNHlzdlo3ZE5DMTV4YmZKNUk5OTFiazFXMUx0MnpKM1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTcwMDA2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNF91bml2ZXJzYWwuYXBwLnRhci5negpOazRST3RSUlZMRG5qeTNUMUc0emhFWEN0cUpxMHNreFRVeVBwRFhWVms0c2VrcVE5RjNOVm9lRGQ3cWNaWElKZjVndWg4S0RHQ0luU0VpSmpnR0ZBZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.4/LazyTyper_1.9.0-nightly.4_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHBsZUNWZ2ZwTWwxdldYaW9LNVhhazd0SXdoblZMZ1dicTVnbHpRYXdzYUNmMDFSRXkwd0FsZnQ3TGo3MU53U0xJVHovQnRGaWlLVjJOQUJXcDI0eFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjAyMTQ2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negpxa3NwOFZIK3RkdnRKMS9pWmtpYUJjN2M4QTRDRks0eHoxOWgvRjBoaTlEVXRZZGRScjM1N1J1WndOUEcyLzBhelY0WFF2OGkzN0dtZVpGMVJia0dDUT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.5/LazyTyper_1.9.0-nightly.5_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHVmYllrZG1vRFVWUXdJUmduMnZJNmUzdUpyV0N3N3o2QmFSSmY4eUdoUkhIOWlQMXBMOVdVNHlzdlo3ZE5DMTV4YmZKNUk5OTFiazFXMUx0MnpKM1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTcwMDA2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNF91bml2ZXJzYWwuYXBwLnRhci5negpOazRST3RSUlZMRG5qeTNUMUc0emhFWEN0cUpxMHNreFRVeVBwRFhWVms0c2VrcVE5RjNOVm9lRGQ3cWNaWElKZjVndWg4S0RHQ0luU0VpSmpnR0ZBZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.4/LazyTyper_1.9.0-nightly.4_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHBsZUNWZ2ZwTWwxdldYaW9LNVhhazd0SXdoblZMZ1dicTVnbHpRYXdzYUNmMDFSRXkwd0FsZnQ3TGo3MU53U0xJVHovQnRGaWlLVjJOQUJXcDI0eFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjAyMTQ2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negpxa3NwOFZIK3RkdnRKMS9pWmtpYUJjN2M4QTRDRks0eHoxOWgvRjBoaTlEVXRZZGRScjM1N1J1WndOUEcyLzBhelY0WFF2OGkzN0dtZVpGMVJia0dDUT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.5/LazyTyper_1.9.0-nightly.5_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHVmYllrZG1vRFVWUXdJUmduMnZJNmUzdUpyV0N3N3o2QmFSSmY4eUdoUkhIOWlQMXBMOVdVNHlzdlo3ZE5DMTV4YmZKNUk5OTFiazFXMUx0MnpKM1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTcwMDA2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNF91bml2ZXJzYWwuYXBwLnRhci5negpOazRST3RSUlZMRG5qeTNUMUc0emhFWEN0cUpxMHNreFRVeVBwRFhWVms0c2VrcVE5RjNOVm9lRGQ3cWNaWElKZjVndWg4S0RHQ0luU0VpSmpnR0ZBZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.4/LazyTyper_1.9.0-nightly.4_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHBsZUNWZ2ZwTWwxdldYaW9LNVhhazd0SXdoblZMZ1dicTVnbHpRYXdzYUNmMDFSRXkwd0FsZnQ3TGo3MU53U0xJVHovQnRGaWlLVjJOQUJXcDI0eFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjAyMTQ2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negpxa3NwOFZIK3RkdnRKMS9pWmtpYUJjN2M4QTRDRks0eHoxOWgvRjBoaTlEVXRZZGRScjM1N1J1WndOUEcyLzBhelY0WFF2OGkzN0dtZVpGMVJia0dDUT09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.5/LazyTyper_1.9.0-nightly.5_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 Model pickers now show specs and helpful descriptions\n\u2022 Redesigned settings layout with dedicated Gaming Mode controls\n\u2022 Faster local AI polishing response times while recording\n\u2022 Fixed microphone permission prompt issues on macOS"
+  "notes": "\u2022 Test and benchmark transcription speeds directly in settings.\n\u2022 Added Gemma and FireRed Lite local AI models.\n\u2022 Easier setup for cloud providers and API keys.\n\u2022 Faster AI text polishing and clear error alerts."
 }
