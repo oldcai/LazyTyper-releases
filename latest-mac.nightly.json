@@ -1,19 +1,19 @@
 {
-  "version": "1.9.0-nightly.5",
-  "pub_date": "2026-08-01T16:40:17Z",
+  "version": "1.9.0-nightly.6",
+  "pub_date": "2026-08-04T07:11:54Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHBsZUNWZ2ZwTWwxdldYaW9LNVhhazd0SXdoblZMZ1dicTVnbHpRYXdzYUNmMDFSRXkwd0FsZnQ3TGo3MU53U0xJVHovQnRGaWlLVjJOQUJXcDI0eFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjAyMTQ2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negpxa3NwOFZIK3RkdnRKMS9pWmtpYUJjN2M4QTRDRks0eHoxOWgvRjBoaTlEVXRZZGRScjM1N1J1WndOUEcyLzBhelY0WFF2OGkzN0dtZVpGMVJia0dDUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.5/LazyTyper_1.9.0-nightly.5_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHYrZi85L1JBVVRKZlpoWjhhWkdXU1VKSFZtSlhmc3N1QXIxVWFXSmpxYzFVaWNoL2swa2ZFVzduYmhLQmVFQTNLMXFlT0JZWXMyMnFFckk3SFYrZkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODI3MTkzCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNl91bml2ZXJzYWwuYXBwLnRhci5negpZdy9mYVZNMy84SVdpeWRreThNVndNUjlVSGpxZlFSaUtsVmVQY0syKytkREJBWFFTWlEwUzhVSVFLa0dwM1dCNExnTkRhcTd2R2ZlVkxDODE3WjZCZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.6/LazyTyper_1.9.0-nightly.6_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHBsZUNWZ2ZwTWwxdldYaW9LNVhhazd0SXdoblZMZ1dicTVnbHpRYXdzYUNmMDFSRXkwd0FsZnQ3TGo3MU53U0xJVHovQnRGaWlLVjJOQUJXcDI0eFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjAyMTQ2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negpxa3NwOFZIK3RkdnRKMS9pWmtpYUJjN2M4QTRDRks0eHoxOWgvRjBoaTlEVXRZZGRScjM1N1J1WndOUEcyLzBhelY0WFF2OGkzN0dtZVpGMVJia0dDUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.5/LazyTyper_1.9.0-nightly.5_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHYrZi85L1JBVVRKZlpoWjhhWkdXU1VKSFZtSlhmc3N1QXIxVWFXSmpxYzFVaWNoL2swa2ZFVzduYmhLQmVFQTNLMXFlT0JZWXMyMnFFckk3SFYrZkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODI3MTkzCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNl91bml2ZXJzYWwuYXBwLnRhci5negpZdy9mYVZNMy84SVdpeWRreThNVndNUjlVSGpxZlFSaUtsVmVQY0syKytkREJBWFFTWlEwUzhVSVFLa0dwM1dCNExnTkRhcTd2R2ZlVkxDODE3WjZCZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.6/LazyTyper_1.9.0-nightly.6_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHBsZUNWZ2ZwTWwxdldYaW9LNVhhazd0SXdoblZMZ1dicTVnbHpRYXdzYUNmMDFSRXkwd0FsZnQ3TGo3MU53U0xJVHovQnRGaWlLVjJOQUJXcDI0eFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjAyMTQ2CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNV91bml2ZXJzYWwuYXBwLnRhci5negpxa3NwOFZIK3RkdnRKMS9pWmtpYUJjN2M4QTRDRks0eHoxOWgvRjBoaTlEVXRZZGRScjM1N1J1WndOUEcyLzBhelY0WFF2OGkzN0dtZVpGMVJia0dDUT09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.5/LazyTyper_1.9.0-nightly.5_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHYrZi85L1JBVVRKZlpoWjhhWkdXU1VKSFZtSlhmc3N1QXIxVWFXSmpxYzFVaWNoL2swa2ZFVzduYmhLQmVFQTNLMXFlT0JZWXMyMnFFckk3SFYrZkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODI3MTkzCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNl91bml2ZXJzYWwuYXBwLnRhci5negpZdy9mYVZNMy84SVdpeWRreThNVndNUjlVSGpxZlFSaUtsVmVQY0syKytkREJBWFFTWlEwUzhVSVFLa0dwM1dCNExnTkRhcTd2R2ZlVkxDODE3WjZCZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.6/LazyTyper_1.9.0-nightly.6_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 Test and benchmark transcription speeds directly in settings.\n\u2022 Added Gemma and FireRed Lite local AI models.\n\u2022 Easier setup for cloud providers and API keys.\n\u2022 Faster AI text polishing and clear error alerts."
+  "notes": "\u2022 Added Light, Dark, and System theme options\n\u2022 Fixed audio dropping issues during live transcription\n\u2022 Double-click to rename your AI provider accounts\n\u2022 Easily select AI polish models with one click"
 }
