@@ -1,19 +1,19 @@
 {
-  "version": "1.9.0-nightly.6",
-  "pub_date": "2026-08-04T07:11:54Z",
+  "version": "1.9.0-nightly.7",
+  "pub_date": "2026-08-06T14:33:50Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHYrZi85L1JBVVRKZlpoWjhhWkdXU1VKSFZtSlhmc3N1QXIxVWFXSmpxYzFVaWNoL2swa2ZFVzduYmhLQmVFQTNLMXFlT0JZWXMyMnFFckk3SFYrZkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODI3MTkzCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNl91bml2ZXJzYWwuYXBwLnRhci5negpZdy9mYVZNMy84SVdpeWRreThNVndNUjlVSGpxZlFSaUtsVmVQY0syKytkREJBWFFTWlEwUzhVSVFLa0dwM1dCNExnTkRhcTd2R2ZlVkxDODE3WjZCZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.6/LazyTyper_1.9.0-nightly.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1hWTJsakp5R0p5VVRab0N5SnRRRjduS1FnTXNpSkVQUi9iVjUxSTNOSEpMLys4ZzFxVjZsSDNKQmZla29TTHdBamUremJhNUorbDZmY0UxWmJNOVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDI2NTQzCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuN191bml2ZXJzYWwuYXBwLnRhci5negpSbzdsbVcrbjZpVUlsQll0TlRSS09RRWxjYlYxUVdiTEo4WXk4TmFNOVhTcGNWL08vM1NZaTJsS1B3T2RhN0pkRUViZ05CVU9EdmxUZG1mN2plbmZBZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.7/LazyTyper_1.9.0-nightly.7_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHYrZi85L1JBVVRKZlpoWjhhWkdXU1VKSFZtSlhmc3N1QXIxVWFXSmpxYzFVaWNoL2swa2ZFVzduYmhLQmVFQTNLMXFlT0JZWXMyMnFFckk3SFYrZkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODI3MTkzCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNl91bml2ZXJzYWwuYXBwLnRhci5negpZdy9mYVZNMy84SVdpeWRreThNVndNUjlVSGpxZlFSaUtsVmVQY0syKytkREJBWFFTWlEwUzhVSVFLa0dwM1dCNExnTkRhcTd2R2ZlVkxDODE3WjZCZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.6/LazyTyper_1.9.0-nightly.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1hWTJsakp5R0p5VVRab0N5SnRRRjduS1FnTXNpSkVQUi9iVjUxSTNOSEpMLys4ZzFxVjZsSDNKQmZla29TTHdBamUremJhNUorbDZmY0UxWmJNOVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDI2NTQzCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuN191bml2ZXJzYWwuYXBwLnRhci5negpSbzdsbVcrbjZpVUlsQll0TlRSS09RRWxjYlYxUVdiTEo4WXk4TmFNOVhTcGNWL08vM1NZaTJsS1B3T2RhN0pkRUViZ05CVU9EdmxUZG1mN2plbmZBZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.7/LazyTyper_1.9.0-nightly.7_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHYrZi85L1JBVVRKZlpoWjhhWkdXU1VKSFZtSlhmc3N1QXIxVWFXSmpxYzFVaWNoL2swa2ZFVzduYmhLQmVFQTNLMXFlT0JZWXMyMnFFckk3SFYrZkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODI3MTkzCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuNl91bml2ZXJzYWwuYXBwLnRhci5negpZdy9mYVZNMy84SVdpeWRreThNVndNUjlVSGpxZlFSaUtsVmVQY0syKytkREJBWFFTWlEwUzhVSVFLa0dwM1dCNExnTkRhcTd2R2ZlVkxDODE3WjZCZz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.6/LazyTyper_1.9.0-nightly.6_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1hWTJsakp5R0p5VVRab0N5SnRRRjduS1FnTXNpSkVQUi9iVjUxSTNOSEpMLys4ZzFxVjZsSDNKQmZla29TTHdBamUremJhNUorbDZmY0UxWmJNOVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDI2NTQzCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuN191bml2ZXJzYWwuYXBwLnRhci5negpSbzdsbVcrbjZpVUlsQll0TlRSS09RRWxjYlYxUVdiTEo4WXk4TmFNOVhTcGNWL08vM1NZaTJsS1B3T2RhN0pkRUViZ05CVU9EdmxUZG1mN2plbmZBZz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.7/LazyTyper_1.9.0-nightly.7_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 Added Light, Dark, and System theme options\n\u2022 Fixed audio dropping issues during live transcription\n\u2022 Double-click to rename your AI provider accounts\n\u2022 Easily select AI polish models with one click"
+  "notes": "\u2022 New Fix, Light, and Deep text cleanup options\n\u2022 Recordings now continue seamlessly when switching audio devices\n\u2022 Added privacy badges for local and online models\n\u2022 Models are now sorted by your usage habits"
 }
