@@ -1,19 +1,19 @@
 {
-  "version": "1.9.0-nightly.7",
-  "pub_date": "2026-08-06T18:59:44Z",
+  "version": "1.9.0-nightly.8",
+  "pub_date": "2026-08-07T19:24:53Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGhrY3AwWFdubVhRdHhSTmFrMS9tYnh6QmxqaERwaFVNWEl2aEdCcEdhSFg4NGlqTEpiNDgzSFBDbTdwNXRCSFFWOFN1djZOcWpQMERWZkRuMTF3c3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDQyNDE5CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuN191bml2ZXJzYWwuYXBwLnRhci5negpqdUNDdE53WS93NlFHOEFrS1JyUVZVeXZSZlRnRmFybjhIVDJFdEtZSFRDRkhOU1R0MmxremFtRVhCZjQ5SncvTlBiVzRPNklpcVVPcmk1OFAyMHJDdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.7/LazyTyper_1.9.0-nightly.7_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGxCRlJlZkFNcGpHUnV5VW5hVHlUdU1aU3VYUHhOL3hmenYzUE5lTFdWTVA1SVRyOVRzQjRGTnZSVW5zNTA3eDVuL1VMdy95cXVKYnBITlpTVWkvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTI5NTMwCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negpsL0huNjRmQzFPdDlidWV4V0Vldnhzck5neVlKTGw3QTdaMStpNXVhWEFxYVlGQm1CcHF2Qng2SVhPdGNLUThEdS8zU1lwT2NwZ2s5Y2Q3SnY5MWVBdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.8/LazyTyper_1.9.0-nightly.8_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGhrY3AwWFdubVhRdHhSTmFrMS9tYnh6QmxqaERwaFVNWEl2aEdCcEdhSFg4NGlqTEpiNDgzSFBDbTdwNXRCSFFWOFN1djZOcWpQMERWZkRuMTF3c3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDQyNDE5CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuN191bml2ZXJzYWwuYXBwLnRhci5negpqdUNDdE53WS93NlFHOEFrS1JyUVZVeXZSZlRnRmFybjhIVDJFdEtZSFRDRkhOU1R0MmxremFtRVhCZjQ5SncvTlBiVzRPNklpcVVPcmk1OFAyMHJDdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.7/LazyTyper_1.9.0-nightly.7_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGxCRlJlZkFNcGpHUnV5VW5hVHlUdU1aU3VYUHhOL3hmenYzUE5lTFdWTVA1SVRyOVRzQjRGTnZSVW5zNTA3eDVuL1VMdy95cXVKYnBITlpTVWkvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTI5NTMwCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negpsL0huNjRmQzFPdDlidWV4V0Vldnhzck5neVlKTGw3QTdaMStpNXVhWEFxYVlGQm1CcHF2Qng2SVhPdGNLUThEdS8zU1lwT2NwZ2s5Y2Q3SnY5MWVBdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.8/LazyTyper_1.9.0-nightly.8_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGhrY3AwWFdubVhRdHhSTmFrMS9tYnh6QmxqaERwaFVNWEl2aEdCcEdhSFg4NGlqTEpiNDgzSFBDbTdwNXRCSFFWOFN1djZOcWpQMERWZkRuMTF3c3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MDQyNDE5CWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuN191bml2ZXJzYWwuYXBwLnRhci5negpqdUNDdE53WS93NlFHOEFrS1JyUVZVeXZSZlRnRmFybjhIVDJFdEtZSFRDRkhOU1R0MmxremFtRVhCZjQ5SncvTlBiVzRPNklpcVVPcmk1OFAyMHJDdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.7/LazyTyper_1.9.0-nightly.7_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGxCRlJlZkFNcGpHUnV5VW5hVHlUdU1aU3VYUHhOL3hmenYzUE5lTFdWTVA1SVRyOVRzQjRGTnZSVW5zNTA3eDVuL1VMdy95cXVKYnBITlpTVWkvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTI5NTMwCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negpsL0huNjRmQzFPdDlidWV4V0Vldnhzck5neVlKTGw3QTdaMStpNXVhWEFxYVlGQm1CcHF2Qng2SVhPdGNLUThEdS8zU1lwT2NwZ2s5Y2Q3SnY5MWVBdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.8/LazyTyper_1.9.0-nightly.8_universal.app.tar.gz"
     }
   },
-  "notes": "\u2022 New Fix, Light, and Deep text cleanup options\n\u2022 Recordings now continue seamlessly when switching audio devices\n\u2022 Added privacy badges for local and online models\n\u2022 Models are now sorted by your usage habits"
+  "notes": "\u2022 Use secondary and advanced transcription models\n\u2022 Sharper error countdown ring in UI\n\u2022 Improved capitalization for transcribed speech"
 }
