@@ -1,11 +1,10 @@
 {
-  "version": "1.8.9",
-  "pub_date": "2026-07-10T01:24:58.640331Z",
+  "version": "1.9.0",
+  "pub_date": "2026-08-08T12:42:12.637934Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHJmSEpNRUdvQUIyZWdEeFBvVUEwTUs1NkxDa2tpcU9XS2JPOUFKbXVDWDFrVUl1NWFBbllYWVlsQjEwY0JuMUljdlpCeHFsWnNiSTlOa3o4Z2EzbGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjQ2Njg5CWZpbGU6TGF6eVR5cGVyXzEuOC45X3g2NC1zZXR1cC5leGUKVVJ3NHphUEpiTkd1VHJiYTVuRm9xcnQ2Z1ZoaXdpdlBnb0QvK2dnTHhjS0dJT052b2Q3YUJLenI5aUVTWXpDZzBLczRmVzBRa1VsU1JYMFlHN3MzRFE9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-windows/LazyTyper_1.8.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHNiNU1heXFiRjU0WGZsWWVwUDduRE92c3dOV05rSE1VVmVZSXJ4NnJrQTBDQmNFdy9hMHYxTnJaWFdZdzEzTERxZHF0TklRbjhyaDc0Y2tPblZNTUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTkyOTIzCWZpbGU6TGF6eVR5cGVyXzEuOS4wX3g2NC1zZXR1cC5leGUKbzJwK1U2TS9kL3duMlFTRFFuampaQnVWOVIwVkZXRTBhb3UwOEdsaFVkcTlyMFhiUDRyVkttamlLSHVuZW4yVldJdXAxVXQyb0pIUjdrTkk1UTc3QUE9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-windows/LazyTyper_1.9.0_x64-setup.exe"
     }
-  },
-  "notes": "\u2022 New capsule recording UI with built-in controls\n\u2022 Smart Paste extracts text from copied images\n\u2022 More reliable recording using multiple microphones\n\u2022 Offline models are now 77% smaller to download"
+  }
 }
