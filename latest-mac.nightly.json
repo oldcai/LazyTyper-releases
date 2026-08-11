@@ -1,19 +1,18 @@
 {
-  "version": "1.9.0-nightly.8",
-  "pub_date": "2026-08-07T19:24:53Z",
+  "version": "1.9.2-nightly.1",
+  "pub_date": "2026-08-11T14:16:24Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGxCRlJlZkFNcGpHUnV5VW5hVHlUdU1aU3VYUHhOL3hmenYzUE5lTFdWTVA1SVRyOVRzQjRGTnZSVW5zNTA3eDVuL1VMdy95cXVKYnBITlpTVWkvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTI5NTMwCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negpsL0huNjRmQzFPdDlidWV4V0Vldnhzck5neVlKTGw3QTdaMStpNXVhWEFxYVlGQm1CcHF2Qng2SVhPdGNLUThEdS8zU1lwT2NwZ2s5Y2Q3SnY5MWVBdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.8/LazyTyper_1.9.0-nightly.8_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG5YR0pXc1VqQWtURkQ1ZzVjUWordEJFSzRYU2g1K2tYTVhZYjFoQlhTWmRJaEFkVUd2VjdyN1hmU005ZUpvVUsrN0RUWlB6RHlhbjNvNWxubEkzOVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU3NTE4CWZpbGU6TGF6eVR5cGVyXzEuOS4yLW5pZ2h0bHkuMV91bml2ZXJzYWwuYXBwLnRhci5negpVMDdkbnVEOWNuTzdSNi9nY2d5TjhiQ2JaRStPcGdOUXgzTW9iUFpFR1BWQ2VmLzB6VldyRVRlOGQ0UHIrWXdiMDg3N2pnUWFwRWxHRFZJQitLd1REdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.2-nightly.1/LazyTyper_1.9.2-nightly.1_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGxCRlJlZkFNcGpHUnV5VW5hVHlUdU1aU3VYUHhOL3hmenYzUE5lTFdWTVA1SVRyOVRzQjRGTnZSVW5zNTA3eDVuL1VMdy95cXVKYnBITlpTVWkvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTI5NTMwCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negpsL0huNjRmQzFPdDlidWV4V0Vldnhzck5neVlKTGw3QTdaMStpNXVhWEFxYVlGQm1CcHF2Qng2SVhPdGNLUThEdS8zU1lwT2NwZ2s5Y2Q3SnY5MWVBdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.8/LazyTyper_1.9.0-nightly.8_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG5YR0pXc1VqQWtURkQ1ZzVjUWordEJFSzRYU2g1K2tYTVhZYjFoQlhTWmRJaEFkVUd2VjdyN1hmU005ZUpvVUsrN0RUWlB6RHlhbjNvNWxubEkzOVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU3NTE4CWZpbGU6TGF6eVR5cGVyXzEuOS4yLW5pZ2h0bHkuMV91bml2ZXJzYWwuYXBwLnRhci5negpVMDdkbnVEOWNuTzdSNi9nY2d5TjhiQ2JaRStPcGdOUXgzTW9iUFpFR1BWQ2VmLzB6VldyRVRlOGQ0UHIrWXdiMDg3N2pnUWFwRWxHRFZJQitLd1REdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.2-nightly.1/LazyTyper_1.9.2-nightly.1_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGxCRlJlZkFNcGpHUnV5VW5hVHlUdU1aU3VYUHhOL3hmenYzUE5lTFdWTVA1SVRyOVRzQjRGTnZSVW5zNTA3eDVuL1VMdy95cXVKYnBITlpTVWkvMXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTI5NTMwCWZpbGU6TGF6eVR5cGVyXzEuOS4wLW5pZ2h0bHkuOF91bml2ZXJzYWwuYXBwLnRhci5negpsL0huNjRmQzFPdDlidWV4V0Vldnhzck5neVlKTGw3QTdaMStpNXVhWEFxYVlGQm1CcHF2Qng2SVhPdGNLUThEdS8zU1lwT2NwZ2s5Y2Q3SnY5MWVBdz09Cg==",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.0-nightly.8/LazyTyper_1.9.0-nightly.8_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG5YR0pXc1VqQWtURkQ1ZzVjUWordEJFSzRYU2g1K2tYTVhZYjFoQlhTWmRJaEFkVUd2VjdyN1hmU005ZUpvVUsrN0RUWlB6RHlhbjNvNWxubEkzOVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU3NTE4CWZpbGU6TGF6eVR5cGVyXzEuOS4yLW5pZ2h0bHkuMV91bml2ZXJzYWwuYXBwLnRhci5negpVMDdkbnVEOWNuTzdSNi9nY2d5TjhiQ2JaRStPcGdOUXgzTW9iUFpFR1BWQ2VmLzB6VldyRVRlOGQ0UHIrWXdiMDg3N2pnUWFwRWxHRFZJQitLd1REdz09Cg==",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.2-nightly.1/LazyTyper_1.9.2-nightly.1_universal.app.tar.gz"
     }
-  },
-  "notes": "\u2022 Use secondary and advanced transcription models\n\u2022 Sharper error countdown ring in UI\n\u2022 Improved capitalization for transcribed speech"
+  }
 }
