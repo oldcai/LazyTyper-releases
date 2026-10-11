@@ -1,18 +1,18 @@
 {
-  "version": "1.9.1",
-  "pub_date": "2026-08-08T21:16:11Z",
+  "version": "1.9.2",
+  "pub_date": "2026-10-11T23:27:16Z",
   "platforms": {
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1MeXBKblIrcEt5dUlsY2pxSlBCTDZiRnp4Y1V3ZkpQWk9SUGlrWTM5bmcvTUlqUnJCSkhUNmpjWW5GMENhV1M4eTVTNjlTbnpnazBUWXRXTlhxM3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MjIzNDIzCWZpbGU6TGF6eVR5cGVyXzEuOS4xX3VuaXZlcnNhbC5hcHAudGFyLmd6CnNLTXBza3JWNllQa1VWSk5OMDVvcldYcFhBblFtLzVwcWpWQm1rTVlhQTVKMkVLeEMxLzJGVzZJTWRhdUhyWG5GQ2VLek1TcGVNNENJdTVDdU5YcUFRPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.1/LazyTyper_1.9.1_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHNuNlRBQkhVbExESmhQd29scW0xdmlDbGJweEtsNmY1Q1ZVSS8wY2trY05GbnBtRVhHZkorK2RhaC8vbUpBMUJBK09WOEN6d2ViR2pGd3NxVHJ3WUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU5OTcyCWZpbGU6TGF6eVR5cGVyXzEuOS4yX3VuaXZlcnNhbC5hcHAudGFyLmd6ClVyd3JuUC9tKzF3K3RvYWMwL1hsdWJNa1FIZ2tSZzVNSlZSQVFPaHZrS21URlhGdEpWZzk4TGYvOENES3p3MUNxOTJFZnd1Tks5eXZnTHlWUitpd0JBPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.2/LazyTyper_1.9.2_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1MeXBKblIrcEt5dUlsY2pxSlBCTDZiRnp4Y1V3ZkpQWk9SUGlrWTM5bmcvTUlqUnJCSkhUNmpjWW5GMENhV1M4eTVTNjlTbnpnazBUWXRXTlhxM3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MjIzNDIzCWZpbGU6TGF6eVR5cGVyXzEuOS4xX3VuaXZlcnNhbC5hcHAudGFyLmd6CnNLTXBza3JWNllQa1VWSk5OMDVvcldYcFhBblFtLzVwcWpWQm1rTVlhQTVKMkVLeEMxLzJGVzZJTWRhdUhyWG5GQ2VLek1TcGVNNENJdTVDdU5YcUFRPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.1/LazyTyper_1.9.1_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHNuNlRBQkhVbExESmhQd29scW0xdmlDbGJweEtsNmY1Q1ZVSS8wY2trY05GbnBtRVhHZkorK2RhaC8vbUpBMUJBK09WOEN6d2ViR2pGd3NxVHJ3WUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU5OTcyCWZpbGU6TGF6eVR5cGVyXzEuOS4yX3VuaXZlcnNhbC5hcHAudGFyLmd6ClVyd3JuUC9tKzF3K3RvYWMwL1hsdWJNa1FIZ2tSZzVNSlZSQVFPaHZrS21URlhGdEpWZzk4TGYvOENES3p3MUNxOTJFZnd1Tks5eXZnTHlWUitpd0JBPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.2/LazyTyper_1.9.2_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbG1MeXBKblIrcEt5dUlsY2pxSlBCTDZiRnp4Y1V3ZkpQWk9SUGlrWTM5bmcvTUlqUnJCSkhUNmpjWW5GMENhV1M4eTVTNjlTbnpnazBUWXRXTlhxM3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MjIzNDIzCWZpbGU6TGF6eVR5cGVyXzEuOS4xX3VuaXZlcnNhbC5hcHAudGFyLmd6CnNLTXBza3JWNllQa1VWSk5OMDVvcldYcFhBblFtLzVwcWpWQm1rTVlhQTVKMkVLeEMxLzJGVzZJTWRhdUhyWG5GQ2VLek1TcGVNNENJdTVDdU5YcUFRPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.1/LazyTyper_1.9.1_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHNuNlRBQkhVbExESmhQd29scW0xdmlDbGJweEtsNmY1Q1ZVSS8wY2trY05GbnBtRVhHZkorK2RhaC8vbUpBMUJBK09WOEN6d2ViR2pGd3NxVHJ3WUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzU5OTcyCWZpbGU6TGF6eVR5cGVyXzEuOS4yX3VuaXZlcnNhbC5hcHAudGFyLmd6ClVyd3JuUC9tKzF3K3RvYWMwL1hsdWJNa1FIZ2tSZzVNSlZSQVFPaHZrS21URlhGdEpWZzk4TGYvOENES3p3MUNxOTJFZnd1Tks5eXZnTHlWUitpd0JBPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.2/LazyTyper_1.9.2_universal.app.tar.gz"
     }
   }
 }
