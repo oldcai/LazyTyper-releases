@@ -1,11 +1,10 @@
 {
-  "version": "1.8.9",
-  "pub_date": "2026-07-10T01:56:14Z",
-  "notes": "\u2022 New pill-shaped recording interface with enlarged text view\n\u2022 Reads screen text and clipboard for smarter transcription context\n\u2022 App learns from your word corrections to improve accuracy\n\u2022 Improved microphone reliability with enhanced background noise reduction",
+  "version": "1.9.2",
+  "pub_date": "2026-10-12T02:22:54Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHI1dlM1RTFUVDU5Uitxano4Mm9YbVUxM0QyRDk0M2hweC9WeFZKQzlzTzBaTzYvK2NhMnZnM2tlSU45ZnA5bW9wU0k2WUhqS2RROHZqeGxYdTI3TndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjQ0MDYwCWZpbGU6TGF6eVR5cGVyXzEuOC45X2FtZDY0LkFwcEltYWdlClZrRmZDY2NMQlp2SEVEQlhqdjl0V1RJSU1KSjlNNTl1UXBCYkx3VXhDTjI4OUs4dVFoYWNjTlBDRk9YNDJZYnRGdi9xOEdTVDJjbG5rWGlwU0tTQ0JRPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.8.9-linux/LazyTyper_1.8.9_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHY5SUxnQlY5NUIraDF5d3hYdnIwaUFlcDd5S2VNSk94R0U0Tng3NkMzNGhNbVc2cWhjNlFZcWxuU0l3YWVZNFlBbkt6R3pleDllVzRjeGR5bXhFcmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzcxMjkzCWZpbGU6TGF6eVR5cGVyXzEuOS4yX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MS45LjIKaEFPR1BacWJZN1JUZUIrOUZlUmNpeFZwNWdpcXl2UU8wTWE1OFJ0MkFSM0h4QStBT2xzZkJtN0Y1QTltL1pMN3R2SXl3Ym9HN3VVUFFYQjVBaStiQVE9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.2-linux/LazyTyper_1.9.2_amd64.AppImage"
     }
   }
 }
