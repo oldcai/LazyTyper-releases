@@ -1,10 +1,10 @@
 {
-  "version": "1.9.3-nightly.1",
-  "pub_date": "2026-11-01T17:41:55.024113Z",
+  "version": "1.9.4-nightly.2",
+  "pub_date": "2026-11-25T03:44:12.677808Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHY5R1F4R25hNFRsSjVHN1RzRURXb0xXVFBvRGlEQTg0SkJBZGZUNzhPT1JBcFNzVDF2bTVmUXhXa2dIVjVqU3pZTUhzcmg0T2FnR2NjRWhwQWFSL0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTU0OTAxCWZpbGU6TGF6eVR5cGVyXzEuOS4zLW5pZ2h0bHkuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS45LjMtbmlnaHRseS4xCmRzM2xsbEtDMm54YjJGcW9HWGovU3VobTN6NGFmcUdUdmF4azlIQ0xMVjFCenhZaEVhSlBpUkFmbTBvOUsrUCs2RXVXODJ2L2ZmckhQSG9lT3JINkRnPT0K",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.3-nightly.1-windows/LazyTyper_1.9.3-nightly.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbGtkNnlZaVI4NThySmZEOUltN3hxbUxzR3RVSWhsU3BBakRaV1FMdG50MXcvTkE0SERtempSQmtGbDJsa2JYZVVWM29HMHA4K0M4ZGtHSDM3VFNDVUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc4MjQyCWZpbGU6TGF6eVR5cGVyXzEuOS40LW5pZ2h0bHkuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS45LjQtbmlnaHRseS4yCmtPS0M1VkxrM2l4VExzOFBEOTVoVUpybFJoTUNwSG8wcEhUOVlSOWxzY1BQOXhzellFZ3ZVT0loMmxCREJiU3plaEt1dktPcURibzIwRG0rcWlCK0NBPT0K",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.4-nightly.2-windows/LazyTyper_1.9.4-nightly.2_x64-setup.exe"
     }
   }
 }
