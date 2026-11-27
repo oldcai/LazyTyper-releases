@@ -1,10 +1,10 @@
 {
-  "version": "1.9.3",
-  "pub_date": "2026-11-09T14:54:53Z",
+  "version": "1.9.4",
+  "pub_date": "2026-11-27T03:48:57Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHBFZzlXOGdJQit0VTBBZ1hQVUVyNEZKZmtYTzZkWis1UGNsempXa094K25QQ1hBWGtCM0tVY1UyL2NlTGdCYUNPdHZyYWxuR21ZRm83eVowNkZwNmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM1NjgzCWZpbGU6TGF6eVR5cGVyXzEuOS4zX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MS45LjMKVGhxTGtyc0kxWnF0RDBzVG9RWjFvUThQZG1GNmdnRWdkaFV4UkQ5NDVWY2ZBWFVyMU0wazFhTWw0WXhGbFRDbGRKRVd3aXloTE0yaHpaaVJKTGRZQ0E9PQo=",
-      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.3-linux/LazyTyper_1.9.3_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSa1pzSW01bHBKbHM4ZFd4Z0JUcE80V3RkRForeGZ4cWZWU3ZEbVJFcVRDYXd5Rmw4TDIwSkM1M29pSGpaNmJpWFkxbFJxbFNWV2VFekxaMElmcFZXVk9FSG5PVXlkTEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzUwODUzCWZpbGU6TGF6eVR5cGVyXzEuOS40X2FtZDY0LkFwcEltYWdlCXZlcnNpb246MS45LjQKTDVPbXN3aFl0Mk9wck8xaFZEdUtSb3ByZS8rRmcwNzY5NlhCcnVDeUV3YWEvT00vTzNqcmVGdkMxTkNieXVsVmpSU3gyM3lVUnNEMmttNDRZbE40Q3c9PQo=",
+      "url": "https://github.com/oldcai/LazyTyper-releases/releases/download/v1.9.4-linux/LazyTyper_1.9.4_amd64.AppImage"
     }
   }
 }
